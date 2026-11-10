@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Panduan Titik Akupunktur untuk IVF</title>
+<style>
+:root{--bg:#faf8f5;--card:#fff;--tx:#2a2622;--mut:#6f675f;--ac:#a2473a;--acbg:#f6e6e2;--bd:#e5ded6;--ok:#2f7a54;--warn:#fff3d6;--warntx:#6b4a00;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1b1917;--card:#262321;--tx:#ece6df;--mut:#a79e94;--ac:#e08a7c;--acbg:#3b2622;--bd:#3a3531;--ok:#6cc79a;--warn:#3a3018;--warntx:#f0d58a}}
+:root[data-theme="dark"]{--bg:#1b1917;--card:#262321;--tx:#ece6df;--mut:#a79e94;--ac:#e08a7c;--acbg:#3b2622;--bd:#3a3531;--ok:#6cc79a;--warn:#3a3018;--warntx:#f0d58a}
+*{box-sizing:border-box}html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.55 Georgia,"Times New Roman",serif}
+main{max-width:860px;margin:0 auto;padding:18px 16px 120px}
+h1{font-size:1.6rem;margin:.2em 0}h2{font-size:1.25rem;margin:0 0 .3em}h3{font-size:1.02rem;margin:.9em 0 .3em;color:var(--ac)}
+.sub{color:var(--mut);font-size:.92rem;margin:0 0 12px}
+.warn{background:var(--warn);color:var(--warntx);border-radius:10px;padding:10px 14px;font-size:.88rem;margin:10px 0 14px;font-family:system-ui,sans-serif}
+nav{display:flex;gap:6px;overflow-x:auto;padding-bottom:8px;font-family:system-ui,sans-serif}
+nav button{flex:0 0 auto;border:1px solid var(--bd);background:var(--card);color:var(--tx);padding:8px 13px;border-radius:999px;font-size:.88rem;cursor:pointer}
+nav button.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:14px 16px;margin:12px 0}
+.when{font-family:system-ui,sans-serif;font-size:.82rem;color:var(--mut);margin:0 0 6px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}
+.chip{font-family:system-ui,sans-serif;font-size:.84rem;border:1px solid var(--bd);background:var(--bg);color:var(--tx);padding:5px 10px;border-radius:8px;cursor:pointer}
+.chip.sel{background:var(--acbg);border-color:var(--ac);color:var(--ac);font-weight:600}
+.chip small{color:var(--mut);font-weight:400}
+.note{font-size:.9rem;color:var(--mut);margin:.3em 0}
+.tag{display:inline-block;font-family:system-ui,sans-serif;font-size:.72rem;background:var(--acbg);color:var(--ac);border-radius:6px;padding:1px 7px;margin-right:4px}
+input[type=search]{width:100%;padding:11px 14px;border-radius:10px;border:1px solid var(--bd);background:var(--card);color:var(--tx);font-size:1rem}
+table{width:100%;border-collapse:collapse;font-size:.9rem}td,th{text-align:left;padding:7px 6px;border-bottom:1px solid var(--bd);vertical-align:top}
+.scroll{overflow-x:auto}
+#bar{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--bd);padding:10px 16px calc(10px + env(safe-area-inset-bottom,0px));font-family:system-ui,sans-serif;font-size:.86rem}
+#bar .in{max-width:860px;margin:0 auto}
+[hidden]{display:none!important}
+#bar{max-height:60vh;overflow:auto;box-shadow:0 -4px 18px rgba(0,0,0,.14)}
+.dh{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}.dh b{font-size:1.15rem;color:var(--ac)}
+#clr{border:1px solid var(--bd);background:var(--bg);color:var(--tx);border-radius:8px;padding:4px 10px;cursor:pointer;font-size:.82rem}
+.dg{display:flex;gap:14px;align-items:flex-start;flex-wrap:wrap}.dg svg{width:190px;flex:0 0 auto}.dg>div{flex:1 1 220px}
+.loc{margin:0 0 6px;font-size:.96rem}
+.dot{fill:var(--ac)}.ring{fill:none;stroke:var(--ac);stroke-width:1.2;opacity:.6}.bd{fill:var(--bd)}.bs{fill:none;stroke:var(--bd)}svg text{fill:var(--mut);font-size:9px;font-family:system-ui,sans-serif}
+</style>
+</head>
+<body>
+<main>
+<h1>Panduan Titik Akupunktur untuk IVF</h1>
+<p class="sub">Ringkasan praktis dari buku <i>Acupuncture &amp; IVF</i> (Dr. Lifang Liang, Blue Poppy Press, 2003). Dibuat Oleh dr Hendrik Amd.Akup Sp.KKLP.</p>
+<div class="warn"><b>Penting:</b> Alat bantu belajar untuk praktisi/mahasiswa akupunktur, bukan pengganti penilaian klinis. Buku sendiri menyebut pengobatan Tiongkok sebagai pengobatan profesional. Angka keberhasilan 60% adalah pengalaman klinis penulis, bukan hasil uji klinis. Koordinasikan selalu dengan dokter fertilitas pasien.</div>
+<nav id="tabs"></nav>
+<section id="view"></section>
+</main>
+<div id="bar" hidden><div class="in" id="det"></div></div>
+<script>
+const P={
+"St 36":["Zu San Li","Menguatkan limpa, menambah qi, mendukung imunitas"],
+"Sp 6":["San Yin Jiao","Menutrisi darah; pertemuan jalur limpa-hati-ginjal"],
+"Liv 3":["Tai Chong","Melancarkan &amp; mengatur qi hati (dengan LI 4 = Empat Gerbang)"],
+"LI 4":["He Gu","Bersama Liv 3: Empat Gerbang, melancarkan qi hati"],
+"Sp 8":["Di Ji","Membantu mengatur hormon"],
+"Yin Tang":["M-HN-3","Menenangkan pikiran &amp; emosi pasien"],
+"GV 4":["Ming Men","Menghangatkan/menguatkan yang ginjal"],
+"Ki 7":["Fu Liu","Menguatkan yang ginjal"],
+"Ki 3":["Tai Xi","Titik sumber ginjal; menguatkan qi sumber &amp; yin, menumbuhkan cairan"],
+"GV 20":["Bai Hui","Menstimulasi hipofisis (FSH), mengangkat qi untuk menahan embrio"],
+"Zi Gong Xue":["M-CA-18","Menstimulasi ovarium, banyak folikel, mutu telur, menebalkan endometrium"],
+"Sp 10":["Xue Hai","Menggerakkan (menghidupkan) darah"],
+"Ki 13":["Qi Xue","Melonggarkan mulut serviks, menambah aliran darah ke uterus"],
+"Si Shen Cong":["M-HN-1","Menenangkan jiwa, menahan embrio, mencegah kontraksi uterus"],
+"CV 3":["Zhong Ji","Menurunkan qi, melancarkan haid"],
+"CV 4":["Guan Yuan","Menurunkan qi; pria: mengalirkan qi &amp; darah ke testis"],
+"CV 6":["Qi Hai","Menurunkan qi; pria: mengalirkan qi &amp; darah ke testis"],
+"CV 8":["Shen Que","Hanya moksa"],
+"CV 12":["Zhong Wan","Untuk mual muntah"],
+"St 25":["Tian Shu","Untuk mual muntah"],
+"St 29":["Gui Lai","Dipakai pada studi Paulus (sebelum transfer)"],
+"Liv 8":["Qu Quan","Menggerakkan qi &amp; darah; bisa menggantikan Liv 3"],
+"Liv 1":["Da Dun","Untuk perdarahan"],
+"Sp 1":["Yin Bai","Untuk perdarahan"],
+"Sp 9":["Yin Ling Quan","Menguras kelembapan"],
+"St 40":["Feng Long","Mengubah dahak/lendir"],
+"LI 11":["Qu Chi","Membersihkan panas"],
+"TB 5":["Wai Guan","Membantu metabolisme cairan"],
+"Ki 6":["Zhao Hai","Menguatkan yang ginjal (motilitas sperma)"],
+"Bl 15":["Xin Shu","Titik shu punggung (jantung)"],
+"Bl 17":["Ge Shu","Titik shu punggung (diafragma/darah)"],
+"Bl 18":["Gan Shu","Titik shu punggung (hati)"],
+"Bl 20":["Pi Shu","Titik shu punggung (limpa)"],
+"Bl 23":["Shen Shu","Titik shu punggung (ginjal)"],
+"Bl 25":["Da Chang Shu","Titik shu punggung (usus besar)"],
+"Telinga: Shen Men":["Aurikular","Menenangkan jiwa, merelaksasi pasien"],
+"Telinga: Ginjal":["Aurikular","Menguatkan esensi ginjal, menaikkan kadar hormon"],
+"Telinga: Hati":["Aurikular","Melancarkan qi, menutrisi darah"],
+"Telinga: Limpa":["Aurikular","Melancarkan qi, menutrisi darah"],
+"Telinga: Endokrin":["Aurikular","Menstabilkan sistem endokrin"],
+"Telinga: Hati-Limpa":["Aurikular","Titik di antara Hati &amp; Limpa: membantu pembentukan darah untuk embrio"]
+};
+const T=[
+{id:"w",t:"Wanita (pra-IVF)",s:[
+{h:"Titik dasar",w:"2–3 bulan sebelum IVF",p:["St 36","Sp 6","Liv 3","LI 4","Sp 8","Yin Tang"],n:"Dipakai untuk hampir semua pasien wanita. Defisiensi yang: tambah GV 4, Ki 7. Defisiensi yin: tambah Ki 3."},
+{h:"Haid lebih cepat",p:["GV 20","Telinga: Endokrin","Telinga: Shen Men"],n:"Titik tambahan di atas titik dasar."},
+{h:"Haid terlambat",p:["Sp 10","CV 4","CV 6"],n:"Xue Hai menghidupkan darah; CV 4 &amp; CV 6 menurunkan qi dan mengatur haid."},
+{h:"Haid tidak teratur",p:["Liv 8","Bl 20","Bl 23","Bl 25"],n:"Liv 8 boleh menggantikan Liv 3. Titik punggung bila memberi terapi di punggung."},
+{h:"Amenore",p:["CV 3","CV 4","CV 6","Sp 10","GV 20","Telinga: Shen Men","Telinga: Ginjal","Telinga: Endokrin"],n:"Buku membagi dua langkah (hidupkan darah minggu terakhir siklus, lalu menguatkan ginjal). Titik punggung: Bl 15, 17, 18, 20, 23, 25."},
+{h:"Endometriosis / mioma",p:["Sp 10","Liv 8","Zi Gong Xue"],n:"Mioma dengan dahak: tambah St 40 dan TB 5. Dismenore: tambah CV 3 atau CV 4."},
+{h:"Perdarahan hebat (anovulasi)",p:["GV 20","Liv 1","Sp 1","St 36","CV 6","CV 8"],n:"Jarum dan moksa; CV 8 hanya moksa."}]},
+{id:"p",t:"Pria (pra-IVF)",s:[
+{h:"Titik dasar",w:"Minimal 3 bulan (pematangan sperma 70–90 hari)",p:["CV 6","CV 4","GV 20"],n:"Defisiensi yang ginjal: tambah Ki 6, GV 4. Defisiensi yin ginjal: tambah Ki 3. Titik punggung: Bl 15, 17, 18, 20, 23, 25."},
+{h:"Volume rendah",p:["Ki 3","Telinga: Ginjal"]},
+{h:"Motilitas rendah",p:["Ki 6","GV 4"]},
+{h:"Likuifaksi buruk",p:["Ki 3","Telinga: Ginjal","Telinga: Endokrin"]},
+{h:"Morfologi abnormal",p:["Liv 8","Sp 10","Bl 17","Bl 18"]},
+{h:"Panas-lembap di jiao bawah",p:["Sp 9","St 40","LI 11"]}]},
+{id:"i",t:"Selama IVF",s:[
+{h:"1. Bulan pil KB (1 bulan sebelum)",w:"Ovarium diistirahatkan",p:["St 36","Sp 6","Liv 3","LI 4","Yin Tang"],n:"Opsional: Sp 10 dan Zi Gong Xue."},
+{h:"2. Stimulasi ovarium",w:"Hari 2–3 haid, saat suntik FSH/LH",p:["St 36","Sp 6","Liv 3","LI 4","Ki 3","Yin Tang","GV 20","Zi Gong Xue"],n:"Bai Hui menstimulasi hipofisis; Zi Gong Xue menambah folikel &amp; menebalkan lapisan rahim. Membantu mengurangi efek samping obat."},
+{h:"3. Sebelum transfer embrio",w:"Hari transfer",p:["St 36","Sp 6","Liv 3","LI 4","Ki 3","Yin Tang","Ki 13","GV 20","Si Shen Cong","Telinga: Shen Men","Telinga: Ginjal","Telinga: Hati","Telinga: Limpa"],n:"Qi Xue melonggarkan serviks agar transfer mudah; Bai Hui + Si Shen Cong menahan embrio dan menenangkan jiwa."},
+{h:"4. Setelah transfer",w:"Segera setelah transfer",p:["St 36","Ki 3","Yin Tang","GV 20","Telinga: Ginjal","Telinga: Shen Men","Telinga: Hati-Limpa"],n:"⚠ Menurut buku, St 36 dan Ki 3 hanya dipakai tepat setelah transfer. Setelah hCG positif, hilangkan keduanya karena terlalu menstimulasi."}]},
+{id:"k",t:"Cegah keguguran",s:[
+{h:"Ancaman keguguran",p:["GV 20","Si Shen Cong","Yin Tang","Telinga: Shen Men","Telinga: Ginjal","Telinga: Hati-Limpa"],n:"Dikombinasikan dengan tonifikasi ginjal (herbal). Usia sekitar 40 tahun: risiko keguguran IVF saja disebut hampir 50%."},
+{h:"Bila mual muntah",p:["CV 8","CV 12","St 25"],n:"CV 8 hanya moksa."},
+{h:"Bila perdarahan",p:["GV 20","Sp 1","Liv 1","St 36"],n:"GV 20 hanya moksa. Catatan: buku mencantumkan St 36 di sini, tetapi di bagian pasca-transfer menyarankan menghapusnya setelah hCG positif. Pastikan dengan supervisor/klinisi."},
+{h:"Bila nyeri punggung",p:["Bl 15","Bl 17","Bl 18","Bl 20","Bl 23"],n:"Hanya akupunktur yang sangat ringan."}]},
+{id:"s",t:"Studi Paulus",s:[
+{h:"Protokol studi (Jerman)",w:"25 menit sebelum &amp; 25 menit sesudah transfer",p:["CV 6","Sp 8","Liv 3","GV 20","St 29"],n:"Sebelum transfer. Hasil: ±43% hamil dengan akupunktur vs ±26% tanpa (Fertility and Sterility)."},
+{h:"Sesudah transfer",p:["St 36","Sp 6","Sp 10","LI 4"],n:"Telinga: Shen Men, Uterus, Endokrin, Otak. Jarum telinga 25 menit (2 jarum per telinga, sisi diganti setelah transfer). Peneliti sendiri mengatakan perlu riset lebih lanjut."}]},
+{id:"c",t:"Kamus titik"}
+];
+const L={
+"St 36":"Tungkai bawah: 3 cun di bawah lekuk lutut luar (St 35), kira-kira satu lebar jari tengah lateral dari tepi depan tulang tibia, di otot tibialis anterior.",
+"Sp 6":"Sisi dalam tungkai bawah: 3 cun (4 jari) di atas ujung mata kaki dalam, tepat di belakang tepi tulang tibia.",
+"Liv 3":"Punggung kaki: pada lekukan antara tulang metatarsal 1 dan 2, di depan pertemuan kedua tulang itu.",
+"LI 4":"Punggung tangan: di antara metakarpal 1 dan 2, di tengah sisi dalam (radial) metakarpal 2, pada otot di antara ibu jari dan telunjuk.",
+"Sp 8":"Sisi dalam tungkai bawah: 3 cun di bawah Sp 9, di belakang tepi tulang tibia.",
+"Yin Tang":"Wajah: tepat di tengah antara kedua alis.",
+"GV 4":"Garis tengah punggung bawah: di bawah prosesus spinosus L2 (setinggi pusar, di belakang).",
+"Ki 7":"Tungkai bawah dalam: 2 cun di atas Ki 3, di depan tendon Achilles.",
+"Ki 3":"Pergelangan kaki dalam: lekukan di antara ujung mata kaki dalam dan tendon Achilles, setinggi ujung mata kaki.",
+"GV 20":"Puncak kepala: garis tengah, 5 cun di atas batas rambut depan; titik tengah garis yang menghubungkan puncak kedua telinga.",
+"Zi Gong Xue":"Perut bawah: 4 cun di bawah pusar (setinggi CV 3), 3 cun lateral dari garis tengah (kiri dan kanan).",
+"Sp 10":"Paha dalam: lutut ditekuk, 2 cun di atas tepi atas-dalam tempurung lutut, pada tonjolan otot vastus medialis.",
+"Ki 13":"Perut bawah: 3 cun di bawah pusar (setinggi CV 4), 0,5 cun lateral dari garis tengah.",
+"Si Shen Cong":"Puncak kepala: empat titik, masing-masing 1 cun di depan, belakang, kiri, dan kanan GV 20.",
+"CV 3":"Garis tengah perut bawah: 4 cun di bawah pusar.",
+"CV 4":"Garis tengah perut bawah: 3 cun di bawah pusar.",
+"CV 6":"Garis tengah perut bawah: 1,5 cun di bawah pusar.",
+"CV 8":"Tepat di tengah pusar (hanya moksa, jangan ditusuk).",
+"CV 12":"Garis tengah perut atas: 4 cun di atas pusar.",
+"St 25":"Perut: 2 cun lateral dari tengah pusar (kiri dan kanan).",
+"St 29":"Perut bawah: 4 cun di bawah pusar, 2 cun lateral dari garis tengah.",
+"Liv 8":"Lutut dalam: lutut ditekuk, di ujung dalam lipatan lutut, pada lekukan di depan tendon semitendinosus.",
+"Liv 1":"Ibu jari kaki: sisi luar (lateral), 0,1 cun dari sudut kuku.",
+"Sp 1":"Ibu jari kaki: sisi dalam (medial), 0,1 cun dari sudut kuku.",
+"Sp 9":"Bawah lutut dalam: lekukan di bawah tonjolan tulang tibia sisi dalam, di antara tepi tibia dan otot betis.",
+"St 40":"Tungkai bawah luar: di tengah antara lipatan lutut dan mata kaki luar (sekitar 8 cun di atas mata kaki), dua lebar jari lateral dari tepi tibia.",
+"LI 11":"Siku luar: siku ditekuk, di ujung lateral lipatan siku, di tengah antara Lu 5 dan tonjolan tulang humerus luar.",
+"TB 5":"Lengan bawah punggung tangan: 2 cun di atas lipatan pergelangan tangan, di antara tulang radius dan ulna.",
+"Ki 6":"Pergelangan kaki dalam: lekukan 1 cun di bawah ujung mata kaki dalam.",
+"Bl 15":"Punggung: 1,5 cun lateral dari garis tengah, setinggi bawah prosesus spinosus T5.",
+"Bl 17":"Punggung: 1,5 cun lateral dari garis tengah, setinggi bawah prosesus spinosus T7 (sejajar ujung bawah tulang belikat).",
+"Bl 18":"Punggung: 1,5 cun lateral dari garis tengah, setinggi bawah prosesus spinosus T9.",
+"Bl 20":"Punggung: 1,5 cun lateral dari garis tengah, setinggi bawah prosesus spinosus T11.",
+"Bl 23":"Punggung bawah: 1,5 cun lateral dari garis tengah, setinggi bawah prosesus spinosus L2 (sejajar GV 4).",
+"Bl 25":"Punggung bawah: 1,5 cun lateral dari garis tengah, setinggi bawah prosesus spinosus L4 (sejajar puncak tulang panggul).",
+"Telinga: Shen Men":"Daun telinga: di fossa triangularis, pada sepertiga atas (dekat percabangan antihelix). Sesuaikan dengan peta aurikular yang Anda pakai.",
+"Telinga: Ginjal":"Daun telinga: di cymba concha (cekungan di atas liang telinga), di bawah cabang atas antihelix.",
+"Telinga: Hati":"Daun telinga: di cymba concha, bagian belakang-bawah.",
+"Telinga: Limpa":"Daun telinga: di cavum concha, bagian atas-belakang.",
+"Telinga: Endokrin":"Daun telinga: di incisura intertragica (lekukan di antara tragus dan antitragus).",
+"Telinga: Hati-Limpa":"Daun telinga: di tengah antara titik Hati dan titik Limpa (cymba–cavum concha)."};
+const XY={
+"St 36":[[67,194]],"Sp 6":[[60,228]],"Liv 3":[[63,252]],"LI 4":[[87,132]],"Sp 8":[[59,206]],"Yin Tang":[[50,17]],"GV 4":[[150,90]],"Ki 7":[[64,233]],"Ki 3":[[61,242]],"GV 20":[[50,8]],"Zi Gong Xue":[[64,110]],"Sp 10":[[59,162]],"Ki 13":[[53,105]],"Si Shen Cong":[[44,8],[56,8],[50,3],[50,13]],"CV 3":[[50,110]],"CV 4":[[50,105]],"CV 6":[[50,99]],"CV 8":[[50,92]],"CV 12":[[50,74]],"St 25":[[59,92]],"St 29":[[59,110]],"Liv 8":[[59,182]],"Liv 1":[[68,259]],"Sp 1":[[59,259]],"Sp 9":[[59,194]],"St 40":[[67,214]],"LI 11":[[80,88]],"TB 5":[[86,114]],"Ki 6":[[60,247]],
+"Bl 15":[[157,56]],"Bl 17":[[157,64]],"Bl 18":[[157,72]],"Bl 20":[[157,80]],"Bl 23":[[157,90]],"Bl 25":[[157,100]]};
+const BODY='<g class="bd"><circle cx="50" cy="20" r="13"/><path d="M31 40H69L73 130H27Z"/><ellipse cx="36" cy="256" rx="8" ry="4"/><ellipse cx="64" cy="256" rx="8" ry="4"/><g class="bs" stroke-linecap="round" stroke-width="9"><path d="M28 44L14 126M72 44L86 126M38 132L36 250M62 132L64 250"/></g></g>';
+let cur="w",act=null;
+const $=s=>document.querySelector(s);
+function showDet(){
+ const b=$("#bar");
+ if(!act||!P[act]){b.hidden=true;return}
+ b.hidden=false;
+ const xy=XY[act]||[],i=P[act];
+ const dots=xy.map(d=>`<circle class="dot" cx="${d[0]}" cy="${d[1]}" r="3.4"/><circle class="ring" cx="${d[0]}" cy="${d[1]}" r="7"/>`).join("");
+ const svg=xy.length?`<svg viewBox="0 0 200 278" role="img" aria-label="Lokasi ${act}">${BODY}<g transform="translate(100,0)">${BODY}</g><text x="50" y="274" text-anchor="middle">Depan</text><text x="150" y="274" text-anchor="middle">Belakang</text>${dots}</svg>`:"";
+ $("#det").innerHTML=`<div class="dh"><span><b>${act}</b> ${i[0]}</span><button id="clr">Tutup ✕</button></div><div class="dg">${svg}<div><p class="loc"><b>Lokasi:</b> ${L[act]||"-"}</p><p class="note"><b>Fungsi:</b> ${i[1]}</p></div></div>`;
+}
+function chip(c){const i=P[c]||["",""];return `<button class="chip ${act===c?"sel":""}" data-c="${c}">${c} <small>${i[0]}</small></button>`}
+function render(){
+ $("#tabs").innerHTML=T.map(x=>`<button class="${x.id===cur?"on":""}" data-t="${x.id}">${x.t}</button>`).join("");
+ const x=T.find(y=>y.id===cur);
+ if(cur==="c"){
+  $("#view").innerHTML=`<input type="search" id="q" placeholder="Cari kode, pinyin, atau fungsi..."><div class="card scroll"><table><thead><tr><th>Titik</th><th>Nama</th><th>Fungsi menurut buku</th></tr></thead><tbody id="tb"></tbody></table></div>`;
+  const f=()=>{const q=$("#q").value.toLowerCase();$("#tb").innerHTML=Object.entries(P).filter(([k,v])=>(k+v.join(" ")).toLowerCase().includes(q)).map(([k,v])=>`<tr data-c="${k}" style="cursor:pointer"><td><b>${k}</b></td><td>${v[0]}</td><td>${v[1]}</td></tr>`).join("")};
+  $("#q").oninput=f;f();
+ }else{
+  $("#view").innerHTML=x.s.map(s=>`<div class="card"><h2>${s.h}</h2>${s.w?`<p class="when">${s.w}</p>`:""}<div class="chips">${s.p.map(chip).join("")}</div>${s.n?`<p class="note">${s.n}</p>`:""}</div>`).join("");
+ }
+ showDet();
+}
+document.addEventListener("click",e=>{
+ const t=e.target.closest("[data-t]"),c=e.target.closest("[data-c]");
+ if(t){cur=t.dataset.t;render();scrollTo(0,0)}
+ else if(c){const k=c.dataset.c;act=(act===k&&c.tagName!=="TR")?null:k;c.tagName==="TR"?showDet():render()}
+ else if(e.target.id==="clr"){act=null;render()}
+});
+render();
+</script>
+</body>
+</html>
