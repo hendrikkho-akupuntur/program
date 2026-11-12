@@ -1,1 +1,3701 @@
-[1,2,"Infantile Cerebral Palsy","G80.0","Saran formula : Baihui, shending, naohu. daerah-daerah motorik, sensorik dan keseimbangan Akupunktur Kulit Kepala. Bila ada gangguan kecerdasan: ditambah sishenzong; bila ada gangguan bicara ditambah daerah aphasia 1, 2 dan 3 Akupunktur kulit kepala; bila lumpuh ekstremitas superior, ditambah naoshu, jiquan, quchi, waiguan, shousanli; bila lumpuh ekstremitas inferior ditambah huantiao, yanglingquan, zusanli, sanyinjiao, jiexi; bila leher-pinggang tidak bertenaga, ditambah titik sepanjang garis median dorsal tubuh dan titik jiaji yang sesuai. Keterangan: Tusukan daerah rangsang akupunktur kulit kepala dilakukan dengan cepat, 200 K/menit, jarum ditinggal 4 jam. Terapi akupunktur ini perlu berlangsung lama, paling tidak 3 bulan dan memerlukan pelatihan rehabilitasi medik. Terapi dilakukan sedini mungkin, hasil terapi sebelum usia 2 tahun dan sesudah usia 2 tahun sangat berbeda.","",["GB-20","SJ-17","LU-9","ST-4","ST-6","ST-7","LI-4"]]
+[
+  [
+    0,
+    1,
+    "Bursopathy",
+    "M71.991",
+    "Titik Nyeri tekan",
+    "Penyakit ini disebut juga Bursal Synovitis Non Secondary Infection. Sering ditemukan pada puncak bahu, lutut, tumit. Bilamana sudah ada infeksi sekunder, timbul nanah maka perlu diberi antibiotika dan bedah pengeluaran nanah.",
+    []
+  ],
+  [
+    0,
+    1,
+    "Cervical Spondylosis of Cervical Type",
+    "M47.821；l",
+    "Fengchi, fengfu, jiaji leher, titik nyeri tekan, dazhui, jianjing, hegu",
+    "Merupakan tipe sindrom serviks yang paling ringan, Suatu ketidakseimbangan kerja antara vertebra dan otot sekitarnya, yang menimbulkan spasme otot yang langsung merangsang reseptor ujung saraf bebas di sekitarnya sehingga menimbulkan rasa nyeri.",
+    [
+      "GB-20",
+      "BL-11",
+      "GB-21",
+      "LI-4"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Costal Chondritis",
+    "M94.8",
+    "Titik nyeri tekan, qimen. zhigou, yanglingquan. Bila perlu penusukan keliling sekitar daerah keluhan.",
+    "Sebab belum jelas. Biasanya ditemukan pada tulang rawan iga ke dua-empat, nyeri terbatas di sekitarnya. Butuh terapi jangka panjang.",
+    [
+      "LR-14",
+      "SJ-6",
+      "GB-34"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Cyst of Popliteal Space",
+    "M 71.261",
+    "Titik Nyeri telan. Kista ditusuk dengan jarum prisma atau jarum yang besar, isi kista dikeluarkan dengan penekanan.",
+    "Penyakit ini tanpa komplikasi yang parah.",
+    []
+  ],
+  [
+    0,
+    1,
+    "Epicondylitis Lateralis",
+    "M 77-1",
+    "Titik nyeri tekan, quchi, zhouliao, shousanli, hegu.",
+    "Merupakan penyakit yang dapat sembuh dengan sendirinya. Akupunktur mempercepat pemulihan, memperpendek perjalanan penyakit dan Memberi hasil yang pasti. Pada masa akut sebaiknya istirahat 1-2 minggu. Setelah sembuh hindari gerakan traumatis pada sendi siku.",
+    [
+      "LI-11",
+      "LI-10",
+      "LI-4"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Epicondylitis Medialis",
+    "M 77-0",
+    "Titik nyeri tekan, Kiaohai, yanggu, houxi.",
+    "sama dengan A-M-5",
+    [
+      "SI-8",
+      "SI-3"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Ganglion",
+    "M67.401",
+    "Titik nyeri tekan. Pada punggung tangan : waiguan. Yangchi; Pada punggung kaki: Jiexi. shangqiu.",
+    "Ganglion difiksasi lalu ditusuk dengan jarum prisma atau jarang besar, arah penusukan ke sekitar, tujuan penusukan memecah kapsul ganglion, lalu cairan isi dikeluarkan sampai bersih, Bekas luka ditutup dengan kasa steril untuk 3 - 5 hari. Apabila kambuh, penusukan diulang.",
+    [
+      "SJ-5",
+      "SJ-4"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Lesion of Infrapatellar Pad",
+    "M79.4",
+    "Titik nyeri tekan, dupi, neixiyan, futu, xuehai, liangqiu.",
+    "Timbul secara perlahan, akibat lutut sering ditekuk, gesekan sendiri yang terulang sehingga terbentuk bantalan lemak, dapat disertai pembengkakan, penebalan dan rasa nyeri pada pergerakan, gerakan pun terbatas.",
+    [
+      "SP-10"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Muscle Strain",
+    "M62.5,M54.5.",
+    "Titik nyeri tekan, shenshu, dachangshu, weizhong.",
+    "Rangsang akupunktur meningkatkan vaskularisasi, merangsang pemulihan permukaan otot yang terluka. ",
+    [
+      "BL-23",
+      "BL-25",
+      "BL-40"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Muscular Torticollis (Early Stage)",
+    "",
+    "Titik nyeri tekan, fengchi, futu, jianjing, tianrong, dashu. Titik nyeri tekan dihangati moksa silinder lalu sepanjang m. Sternoldeidomastoideus dan m. Trapezius selama 15-20 menit, lalu dihangati titik-titik fengchi, futu, tianrong, dazhu, setiap titik 3-5 menit, sampai timbul warna kemerahan (hiperemis); kemudian diakukan penjaruman pada titik nyeri tekan yang paling jelas.",
+    "Pada jenis bawaan, dilakukan setelah Lahir 6 bulan, paling lambat 1 tahun; dapat sembuh. Setelah lewat 1 tahun sebaiknya diakukan pembedahan. Pada stadium lanjut telah ada kelainan bentuk,akupunktur tidak dapat memperbaikinya.",
+    [
+      "GB-20",
+      "GB-21",
+      "BL-11",
+      "PC-7"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Myofascitis",
+    "M60.991",
+    "Daerah leher-kuduk, titik nyeri tekan, jianjing, tianzong, jugu, quyuan, jianwaishu, jiaji leher,quchi, hegu. Daerah punggung: Titik nyeri tekan, jiaji torakolumbal, yanglingquan, kunlun.",
+    "Timbul akibat rangsang perlukaan berulang pada otot. Perbaikan vaskularisasi merupakan dasar pemulihan.",
+    [
+      "GB-21",
+      "LI-16",
+      "LR-8",
+      "LI-11",
+      "LI-4",
+      "GB-34",
+      "BL-60"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Periarthritis of Shoulder (Early Stage)",
+    "M75.0",
+    "jianyu, jianliao, jianqian, jianzhen, titik nyeri tekan, jianjing, quchi, waiguan, yangiingquan.",
+    "Tahap permulaan khasiat kelas I, bila telah terjadi frozen Shoulder, masuk kelas II.",
+    [
+      "LI-15",
+      "SJ-14",
+      "SI-9",
+      "GB-21",
+      "LI-11",
+      "SJ-5",
+      "GB-34"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Primary Piriform Muscle Syndrome",
+    "ICD10j G57：001",
+    "Titik nyeri tekan, jiaji L3-L5, zhibian, huantiao, weizhong, yanglingquan, xianzhong, qiuxu, kunlun.",
+    "Dengan penanganan yang tepat, penyakit ini dapat disembuhkan.",
+    [
+      "GB-30",
+      "BL-40",
+      "GB-34",
+      "GB-39",
+      "GB-40",
+      "BL-60"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Shoulder-Hand Syndrome (Early Stage)",
+    "MM 89.001‬",
+    "Jianyu, jianliao, jianqian, jianzhen, titik nyeri tekan, quchi, hegu, baxie, shixian.",
+    "Pada stadium pertama, punggung tangan bengkak nyeri, pembuluh darah tampak melebar; stadium kedua, bengkak dan nyeri sentuhan berkurang. Khasiat akupunktur pada stadium permulaan (I dan II) kelas I, stadium lebih lanjut: jari kaku, pergerakan terbatas, masuk kelas II.",
+    [
+      "LI-15",
+      "SJ-14",
+      "SI-9",
+      "LI-11",
+      "LI-4"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Simple Systremma (Calf Cramp)",
+    "M79.1,R25.3",
+    "Chengshan. Chengjin, titik nyeri tekan, yanglingquan, houxi, neiting",
+    "Gejala penyakit ini adalah kejang betis, nyeri dan terasa benjolan pada betis; banyak keringat, gangguan pergerakan; umumnya disebabkan oleh rangsangan dingin dan/atau kelelahan.",
+    [
+      "BL-57",
+      "GB-34",
+      "SI-3",
+      "ST-44"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Stiff Neck",
+    "M54.2",
+    "Titik nyeri tekan, jianjing, Luozhen, yanglingquan. Bila disertai keluhan ekstremitas superior, ditambah dengan : Ouchi. waiguan, hegu. Cara penusukan dilakukan tusukan titik jauh terlebih dahulu, pasien diminta menggerakan leher: apakah masih kaku ? Baru kemudian tusuk titik dekat keluhan",
+    "Biasanya sekali tusuk, langsung sembuh. Paling tidak sembuh setelah tusukan kedua atau ketiga.",
+    [
+      "GB-21",
+      "GB-34",
+      "SJ-5",
+      "LI-4"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Syndrome of the Third Transverse Process of Lumbar Vertebrae",
+    "M48.8",
+    "Titik nyeri tekan, ]iaji L3-U, shenshu, weizhong.",
+    "Kontraksi otot pinggang dan otot abdomen, yang berlangsung berulang dan lama, melukai otot otot sekitar L3-L4, perlukaan merangsang saraf spinal terkait, akhirnya jadi penyakit ini.",
+    [
+      "BL-23",
+      "BL-40"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Tendonitis(Non Secondary Infection)",
+    "M78.5 / M75.2 / M77.8 / M",
+    "Titik nyeri tekan, houxi, weizhong",
+    "Penyakit ini sering ditemukan pada daerah dorsal tubuh, terutama pada ligamen T3-T5, L5-.S1.",
+    [
+      "SI-3",
+      "BL-40"
+    ]
+  ],
+  [
+    0,
+    1,
+    "Tenosynovitis(Early Stage)",
+    "M65.992",
+    "Pada tendon prosessus styloideus: titik nyeri tekan, Yangxi, lieque, hegu; pada tendon flexor otot-otot jari : titik nyeri tekan, hegu, neiguan, waiguan.",
+    "Pada stadium permulaan, pergerakan jari tidak bebas, linu, waktu bangun tidur dirasakan berat; pada stadium lanjut, disertai gejala keterbatasan gerak, adanya perlengketan kelainan be+ / G99.2 untuk.",
+    [
+      "LI-5",
+      "LU-7",
+      "LI-4",
+      "PC-6",
+      "SJ-5"
+    ]
+  ],
+  [
+    0,
+    2,
+    "Cervical Spondylosis of Vertebral Artery Type",
+    "M47.02 +/G 99.2",
+    "Baihui, fengchi, wangu, jiaji leher, dazhui, houxi.",
+    "Titik fengchi ditusuk Sedalam 1 cun, kemudian dilakukan cabut benam selama 1-3 menit. Titik lainnya ditusuk seperti penusukan pada umumnya.",
+    [
+      "GB-20",
+      "SI-4",
+      "BL-11",
+      "SI-3"
+    ]
+  ],
+  [
+    0,
+    2,
+    "Cervical Syndrome of Nerve Root Type",
+    "M47.2+/G55.2",
+    "Fengchi, Jiaji leher, jingpi, jianyu, quchi, hegu, houxi.",
+    "Nyeri leher-kuduk disertai penjalaran nyeri ke lengan, pilih titik sesuai dengan segmen servikal terkait. Akupunktur dapat meredakan nyeri bengkak akar saraf spinal; untuk hasil yang Lebih baik, sebaiknya didukung dengan traksi vertebra servikal.",
+    [
+      "GB-20",
+      "LI-15",
+      "LI-11",
+      "LI-4",
+      "SI-3"
+    ]
+  ],
+  [
+    0,
+    2,
+    "Fibromyalgia Syndrome",
+    "M 79.0 ；",
+    "Titik nyeri tekan, jiaji, baihui, fengfu, ganshu, neiguan, hegu, sanyinjiao, taichong.",
+    "Penyebab penyakit ini belum jelas; diyakini berhubungan dengan gangguan tidur, kelainan pelepasan neuromediator dan kelainan imun. Akupunktur berkhasiat simptomatis.",
+    [
+      "BL-18",
+      "PC-6",
+      "LI-4",
+      "SP-6",
+      "LR-3"
+    ]
+  ],
+  [
+    0,
+    2,
+    "Hyperplastic Spondylitis",
+    "M46.8",
+    "Titik nyeri tekan, jiaji, shenshu, yaoyangguan, weizhong, xianzhong.",
+    "Merangsang Jiaji dengan jarum kulit. Penyakit ini pada stadium awal, Sebagian besar tidak ada keluhan, sebagian mengeluh lumbago; pada stadium Lanjut mengikuti perjalanan penyakit, dapat timbul pertumbuhan tulang. Keluhan utama : nyeri pinggang. Akupunktur dapat meredakan keluhan utama ini.",
+    [
+      "BL-23",
+      "BL-40",
+      "GB-39"
+    ]
+  ],
+  [
+    0,
+    2,
+    "Osteoarthritis of Knee Joint",
+    "M 17.961",
+    "Titik nyeri tekan, heding, dubi, neixiyan, yanglingquan, zusanli, liangqiu.",
+    "Dubi ditusuk mengarah ke neixiyan. Akupunktur dapat meredakan nyeri,memperbaiki keadaan penyakit. menghambat perkembangan penyakit ini, tetapi tidak menyembuhkan.",
+    [
+      "ST-35",
+      "GB-34",
+      "ST-36"
+    ]
+  ],
+  [
+    0,
+    2,
+    "Prolapse of Lumbal Disc",
+    "M51.2",
+    "Titik nyeri tekan, jiaji lumbal, jizhong, shenshu, dachangshu, yaoshu, huantiao, yanglingquan, weizhong, chengshan, xianzhong, kunlun.",
+    "Akupunktur dapat meredakan nyeri, meningkatkan pergerakan dan perbaikan fungsi tulang belakang, tetapi tidak menyembuhkan",
+    [
+      "BL-23",
+      "BL-25",
+      "GB-30",
+      "GB-34",
+      "BL-40",
+      "BL-57",
+      "GB-39",
+      "BL-60"
+    ]
+  ],
+  [
+    0,
+    2,
+    "Rheumatic Arthritis (Chronic Stage)",
+    "",
+    "Titik nyeri tekan, dubi, neixiyan, fengchi, dazhui, hegu, yanglingquan, fenglong.",
+    "Umumnya tanpa disertai demam, nyeri sendi berpindah- pindah atau terbatas pada satu dua sendi, umumnya sendi besar, pergerakan sendi terbatas, penyakit bersifat kambuhan, dipengaruhi oleh cuaca. Terapi perlu dukungan obat.",
+    [
+      "ST-35",
+      "GB-20",
+      "BL-11",
+      "LI-4",
+      "GB-34"
+    ]
+  ],
+  [
+    0,
+    3,
+    "Cervical Spondylosis of Myeloid Type",
+    "M47.12+ /G99.2",
+    "Chengjiang, jiaji leher, dazhui, lingtai, tongli, shenshu, Biguan, chengjin, weizhong, tiaokou, xianzhong.",
+    "Karena melibatkan medula spinalis, penyakit ini lebih parah dibanding dengan cervical spondylosis tipe yang lainnya. Akupunktur sebagai terapi pendukung memberi hasil tertentu.",
+    [
+      "BL-11",
+      "BL-23",
+      "BL-40"
+    ]
+  ],
+  [
+    0,
+    3,
+    "Cervical Spondylosis of Sympathetic Type",
+    "",
+    "Baihui, fengfu, lingtai, quchi, neiguan, laogong, yinxi, yanglao, zusanli, sanyinjia",
+    "Disebabkan saraf simpatis terangsang atau tertekan. Terapi akupunktur hanya dapat menghilangkan gejala tertentu.",
+    [
+      "LI-11",
+      "PC-6",
+      "PC-8",
+      "HT-6",
+      "SI-6",
+      "ST-36",
+      "SP-6"
+    ]
+  ],
+  [
+    0,
+    3,
+    "Chondromalacia Patellae",
+    "M22.4",
+    "Titik nyeri tekan, dubi, neixiyan, xuehai, liangqiu, weizhong, Weiyang, zusanli.",
+    "Penyakit ini merupakan penyakit degenerative.",
+    [
+      "ST-35",
+      "SP-10",
+      "BL-40",
+      "ST-36"
+    ]
+  ],
+  [
+    0,
+    3,
+    "Necrosis of Femoral Head",
+    "M87.951 / M87.051 / M87.1",
+    "Saran formula: Titik nyeri tekan, zhibian, huantiao, huanzhong (lokasi dipertengahan garis penghubung huantiao dan yaoshu), dianshang (lokasi 1 cun dibawah pertengahan garis penghubung SIAS dan trachanter mayor): fushe, chongben. juliao, yanglingquan, zusanli. sanyinjiao, xianzhong.",
+    "Sampai saat ini belum dapat disembuhkan. Akupunktur berkhasiat sebagai terapi pendukung dalam hal perbaikan vaskularisasi dan meredakan nyeri.",
+    [
+      "GB-30",
+      "GB-34",
+      "ST-36",
+      "SP-6",
+      "GB-39"
+    ]
+  ],
+  [
+    0,
+    3,
+    "Osteoporosis",
+    "M81",
+    "Saran formula : Jaji, dashu, Weishu, pishu, shenshu, yaoyangguan, guanyuan, qihai, shenque, hegu, zusanli, sanyinjiao, taixi,",
+    "Sampai saat ini terhadap osteoporosis tindakan terbaik adalah pencegahan. Terapi ditujukan pada perbaikan metabolisme tuLang： Akupunktur merupakan terapi pendukung saja.",
+    [
+      "BL-13",
+      "BL-20",
+      "BL-23",
+      "LI-4",
+      "ST-36",
+      "SP-6",
+      "KI-3"
+    ]
+  ],
+  [
+    0,
+    3,
+    "Rheumatoid Arthritis",
+    "M 06.991",
+    "Titik nyeri tekan, titik-titik akupunktur sekitar sendi terkena.",
+    "Penyakit ini merupakan penyakit autoimun. Terjadi kerusakan jaringan tulang, yang menimbulkan kelainan bentuk sendi. Akupunktur hanya merupakan terapi penunjang.",
+    []
+  ],
+  [
+    0,
+    3,
+    "Rhizomalica Spondylitis",
+    "M45.991",
+    "Titik-titik sepanjang prosessus Spin, tulang belakang mulai dari Dazhui sampai Yaoshu, atau jiaji (dari T.10 ke atas), ditambah dengan huantiao, zhibian, chengfu, yanglingquan, yinlingquan, zusanli.",
+    "Penyebab tidak jelas, karena itu tidak ada terapi kausal. Akupuntur meredakan keluhan, khasiat terapeutik terbatas.",
+    [
+      "BL-11",
+      "GB-30",
+      "GB-34",
+      "SP-9",
+      "ST-36"
+    ]
+  ],
+  [
+    0,
+    3,
+    "Sicca Syndrome",
+    "M 35 .0",
+    "Lianquan,jinjinyuye,jingming, quhou, yingxiang, houquanliao (lokasi 1 cm posterior titik quanliao), qugu, huiyin, feishu, shenshu, ganshu, hegu, xuehai, sanyinjiao, taixi.",
+    "Merupakan .penyakit autoimun yang berhubungan dengan kelainan kelenjar eksokrin tubuh dengan gejala : mulut kering, mata kering, hidung kering, kulit kering, vagina kering yang disertai penurunan penglihatan, epistaksis,  kesulitan menelan, kelainan kulit, kelainan sendi Sampai saat ini masih sulit untuk disembuhkan.",
+    [
+      "BL-1",
+      "LI-20",
+      "BL-67",
+      "BL-13",
+      "BL-23",
+      "BL-18",
+      "LI-4",
+      "SP-10",
+      "SP-6",
+      "KI-3"
+    ]
+  ],
+  [
+    0,
+    3,
+    "Spinal Stenosis",
+    "",
+    "Titik nyeri tekan, yaoyangguan, shenshu, dachangshu, qihaishu, mingmen, huantiao, fengshi, weizhong, kunlun.",
+    "Penekanan dan desakan pada duramater dan serabut saraf spinal menimbulkan sederetan gejala, misalnya nyeri lumbosakral dan sekitarnya. Sebab dapat bawaan atau didapat. Sampai saat ini belum dapat disembUhkan. Akupunktur dapat turut berperan dalam terapi terpadu penyakit ini.",
+    [
+      "BL-23",
+      "BL-25",
+      "GB-30",
+      "GB-31",
+      "BL-40",
+      "BL-60"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Carpal Tunnel Syndrome",
+    "G 56.0",
+    "Daling, yangxi, yangchi, shenmen, neiguan, waiguan, yuji, hegu",
+    "Merupakan jebakan n. medianus. Bila di atas 6 bulan perlu dipertimbangkan tindakan bedah.",
+    [
+      "LI-5",
+      "SJ-4",
+      "HT-7",
+      "PC-6",
+      "SJ-5",
+      "LU-10",
+      "LI-4"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Facial Palsy (Bell's Palsy)",
+    "G50.902",
+    "Taiyang, yangbai, yuyao, atau zhanzhu, sibai, yifeng, jiache atau xiaguan, dichang, hegu, kunlun.",
+    "Titik d Wajah ditusuk mendatar, bersudut atau tembus. Dari yangbai ke yuyao, dari jiache ke dichang, dari taiyang ke xiaguan. Dua minggu pertama rangsangan ringan, tidak diberi rangsangan elektrik. Pada tahap pemulihan rangsangan lebih kuat dan dapat diberi rangsang eleldtrik. Titik di wajah dapat diberi rangsangan termik.",
+    [
+      "GB-14",
+      "BL-2",
+      "SJ-17",
+      "ST-6",
+      "ST-7",
+      "ST-4",
+      "LI-4",
+      "BL-60"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Guillain-Barré Syndrome (Convalescence Stage)",
+    "",
+    "Jiaji, quxhi, hegu, neiguan. xuehai, zusanli, yanglingquan, sanyinjiao",
+    "Penyakit mencapai puncak pada minggu pertama dan kedua, minggu keempat berhenti berkembang；masuk masa pemulihan.",
+    [
+      "LI-4",
+      "PC-6",
+      "SP-10",
+      "ST-36",
+      "GB-34",
+      "SP-6"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Headache (Non Organic)",
+    "R51.0",
+    "1) nyeri kepala oksipital  : tianzhu, houting, fengchi, houxi, Fengchi, houxi, zhongzhu ; 2) nyeri kepala temporal: taiyang, shuaigu, xianlu, waiguan, xiaxi; 3) nyeri kepala frontal : shangxing, yintang, yangbai, hegu, neiting; 4) nyeri kepala vertex: baihui, qianding, tongtian, neiguan, taichong; 5) nyeri seluruh kepala : yintang, taiyang, baihui, touwei, Tianzhu, fengchi, hegu, waiguan, neiting, zulinqi.",
+    "Nyeri kepala non organic mencakup nyeri kepala yang tidak jelas sebabnya.",
+    [
+      "BL-10",
+      "GB-20",
+      "SI-3",
+      "SJ-3",
+      "LU-9",
+      "SJ-5",
+      "GB-14",
+      "LI-4",
+      "ST-44",
+      "PC-6",
+      "LR-3",
+      "GB-41"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Lateral Cutaneous Nerve of Thigh Syndrome",
+    "G57.101",
+    "jiaji lumbal, titik nyeri tekan, futu, Xuehai, yanglingquan.",
+    "gejala utama penyakit ini adalah kelainan sensorik, kebas, sensitif atau nyeri.",
+    [
+      "SP-10",
+      "GB-34"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Neuropathic Headache",
+    "G44.101",
+    "Shuiokou, yintang, baihui, fengfu, fengchi, ganshu, neiguan, shenmen, hegu, taichong.",
+    "Biasanya ditemukan pada pasien depresi dan paranoid. Nyeri kepala erat berhubungan dengan pikiran, stres, kelelahan, Insomnia dan perubahan cuaca.",
+    [
+      "GB-20",
+      "BL-18",
+      "PC-6",
+      "HT-7",
+      "LI-4",
+      "LR-3"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Occipital Neuralgia",
+    "G58.804",
+    "Titik nyeri tekan, fengchi. yuchen, tianzhu, jiaji leher, houxi, kunlun.",
+    "Tianzhu ditusuk sedalam 0,5-0,8 cun, sampai diperoleh rasa jarum setempat; yuchen ditusuk mendatar arah ke atas, rasa jarum menjalar sampai daerah houding, setelah itu, arah jarum diubah ke bawah penjalaran rasa jarum sampai di kuduk：",
+    [
+      "GB-20",
+      "BL-10",
+      "SI-3",
+      "BL-60"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Primary Sciatica",
+    "G44.103",
+    "Huantiao, zhibian, titik nyeri tekan, menjalar ke posterior tungkai: yinmen, weizhong, chengshan; menjalar ke lateral: yanglingquan, yangjiao, xianzhong.",
+    "Zhibian, huantiau ditusuk dalam, diupayakan agar rasa jarum menjalar ke tungkai. 5-10 hari permulaan sakit terasa sangat nyeri. Dalam waktu 6-8 minggu dapat sembuh dengan sendirinya.",
+    [
+      "GB-30",
+      "LU-2",
+      "BL-40",
+      "BL-57",
+      "GB-34"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Rheumatic Chorea(Convalescence Stage)",
+    "I02",
+    "Baihui, fengfu, garis baihui zhubin dan garis lateral inferior oksipital (akupunktur Kulit Kepala), shang Lianquan, jiache, dichang, fengchi, dazhui, neiguan, hegu, zusanli, sanyinjiao, taichong.",
+    "Pada tahap akut, terapi akupunktur sebagai penunjang, dl tahap pemulihan akupunktur dapat menyembuhkan secara tunggal (kelasi)",
+    [
+      "ST-6",
+      "ST-4",
+      "GB-20",
+      "BL-11",
+      "PC-6",
+      "LI-4",
+      "ST-36",
+      "SP-6",
+      "LR-3"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Superior Clunal Nerves Ganglionitis",
+    "G57.8",
+    "Titik nyeri tekan, baohuang, zhibian, yinmen, weizhong.",
+    "Perlukaan jaringan lunak daerah pinggang menyebabkan serabut saraf Superior clunial dan jaringan sekitarnya hiperemis, edem sampai terjadi perdarahan, menimbulkan kelainan. Akupunktur memperbaiki dan memulihkan vaskularisasi daerah bokong ini.",
+    [
+      "LU-2",
+      "BL-40"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Supraorbital Neuralgia",
+    "G50.001",
+    "Titik nyeri tekan, zhanzhu, yuyao, yangbai, zhongzhu, kunlun.",
+    "Merupakan kelainan cabang pertama n. trigeminus yang Terlokalisir.",
+    [
+      "BL-2",
+      "GB-14",
+      "SJ-3",
+      "BL-60"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Tension Type Headache",
+    "G44.201",
+    "Titik nyeri tekan pada daerah pundak-punggung-bahu, baihui, taiyang, touwei, Tianzhu, fengchi, jiaji leher, shenmen, taichong,  sanyinjiao. Bila otot daerah pundak-punggung kaku, ditambah jianjing, tianzong, bingfeng.",
+    "Hasil terapi akupunktur lebih baik dibanding dengan migren.",
+    [
+      "BL-10",
+      "GB-20",
+      "HT-7",
+      "LR-3",
+      "SP-6",
+      "GB-21",
+      "SI-12"
+    ]
+  ],
+  [
+    1,
+    1,
+    "Vascular Headache (Non Organic)",
+    "G44.103",
+    "Taiyang, yintang, baihui, touwei, fengchi, shuaigu, neiguan, hegu, taichong, neiting.",
+    "Gangguan vaskularisasi saraf motorik intracranial dan kelainan kontraksi vaskuler ekstrakranial, menyebabkan diatasi pembuluh darah dan menimbulkan nyeri yang parah. Gejala berdenyutnya pembuluh darah merupakan gejala khusus penyakit ini. Hipertensi dan gangguan pembuluh darah otak masuk dalam kelas III.",
+    [
+      "LU-9",
+      "GB-20",
+      "PC-6",
+      "LI-4",
+      "LR-3",
+      "ST-44"
+    ]
+  ],
+  [
+    1,
+    2,
+    "Facial Spasm",
+    "G51.3/G51.4",
+    "Fengchi,  yifeng, taiyang, dichang, jiache, xiaguan, quanliao, hegu.",
+    "Titik yifeng ditusuk cabut-benam. setelah diperoleh rasa jarum. jarum Langsung dicabut. ",
+    [
+      "GB-20",
+      "SJ-17",
+      "EX-HN5",
+      "ST-4",
+      "ST-6",
+      "ST-7",
+      "SI-18",
+      "LI-4"
+    ]
+  ],
+  [
+    1,
+    2,
+    " Infantile Cerebral Palsy",
+    "G80.0",
+    "Saran formula : Baihui, shending, naohu. daerah-daerah motorik, sensorik dan keseimbangan Akupunktur Kulit Kepala. Bila ada gangguan kecerdasan： ditambah sishenzong; bila ada gangguan bicara ditambah daerah aphasia 1, 2 dan 3 Akupunltur fuUt kepala; bila lumpuh ekstremitas superior, ditambah naoshu, jiquan, quchi, waiguan, shousanli; bila lumpuh ekstremitas inferior ditambah huantiao, yanglingquan, zusanli, sanyinjiao, jiexi; bila leher-pinggang tidak bertenaga, ditambah titik sepanjang garis median dorsal tubuh dan titik jiaji yang sesuai. Keterangan : Tusukan daerah rangsang akupunktur kulit kepala dilakukan dengan cepat, 200 K/menit, jarum ditinggal 4 jam. Terapi akupunktur ini perlu berlangsung Lama, paling tidak 3 bulan dan memerlukan pelatihan rehabilitasi medik. Terapi dilakukan sedini mungkin, hasil terapi sebelum usia 2 tahun dan sesudah usia 2 tah٧nsangat berbeda.",
+    "",
+    [
+      "GB-20",
+      "SJ-17",
+      "LU-9",
+      "ST-4",
+      "ST-6",
+      "ST-7",
+      "LI-4"
+    ]
+  ],
+  [
+    1,
+    2,
+    "Intercostal Neuralgia",
+    "G58.0",
+    "Titik nyeri tekan, jiaji torak, qimen, zhigou, zulinqi.",
+    "Terapi nyeri inteirkostal primer berhasil dengan baik, masuk kelas I. Nyeri interkostal sekunder yang masuk ketegori kelas 11•",
+    [
+      "LR-14",
+      "SJ-6",
+      "GB-41"
+    ]
+  ],
+  [
+    1,
+    2,
+    "Migraine",
+    "GA3.901",
+    "Shuaigu, Kianlu, touwei, taiyang, fengchi. waiguan, yanglingquan, taichong.",
+    "Saat kambuh, sebaiknya diambil titik jauh Lebih dulu dengan rangsangan kuat. Tera^ akupunktur da.pat meredakan gejila, mengurangi frekuensi dan mempersingi<at lama serangan.",
+    [
+      "LU-9",
+      "GB-20",
+      "SJ-5",
+      "GB-34",
+      "LR-3"
+    ]
+  ],
+  [
+    1,
+    2,
+    "Multiple Sclerosis",
+    "G62.9",
+    "Pada ekstremitas superior, jingpi, jiaji leher, quchi, hegu, titik nyeri tekan, shixian; pada ekstremitas inferior, jiaji Tumbal, zusanli, yanglingquan, titik nyeri tekan, sanyinjiao.Kuanzhong, jiexi, taichong.",
+    "Karena sebahyang kompleks. Terapi akupunktur masuk Kelas II. 2 .1 9 . P s e u d o b u lb a r P a ra ly s is ICDl0:Gl2.203 l( ode Penyakit Berkhasiat Akupunktur: B-G:6 Saran formula : Lianquan,jinjinyuye,fengchi, wangu,yifeng,shuigou,neiguan, tongli. Keterangan : Tusukan titik-titik fengchi, wangu, yifeng diarahkan ke adam apel, tusuk perlahan-lShan sam}ai 2-2,S cun, jarum diputar- tekan ringan sampai tenggorokan terasa kebas, dipertahankan 1-3 menit. Titik jinjin yuye ditusuk berdarah. 2 .20 . S e c o n d a ry S c ia tic a",
+    [
+      "LI-11",
+      "LI-4",
+      "ST-36",
+      "GB-34",
+      "SP-6",
+      "GB-39",
+      "LR-3"
+    ]
+  ],
+  [
+    1,
+    2,
+    "Prolapse of Lumbar Disc",
+    "",
+    "Saranforf^ula:Dachangshu. jiaji lumbal, sh.enshu, huantiao, weizhong, yanglingquan. chengshan, Kianzhong, qiuxu,",
+    "Penusukan huantiao harus dalam, seteLah diperoleh rasa jarum, dilakukan manipulasi cabut-benam, rasa jarum diusahakan menjalar ke tuilgkai. Seperti pada umumnya, tusukan Jiaji miring diarahkan ke vertebra.",
+    [
+      "BL-25",
+      "BL-23",
+      "GB-30",
+      "BL-40",
+      "GB-34",
+      "BL-57",
+      "GB-40"
+    ]
+  ],
+  [
+    1,
+    2,
+    "Sequelae of Stroke(Convalescence and Sequelae Stage)",
+    "I69",
+    "Shuigou.baihui,fengchi,garismotorikdansensorikakupunktur kulit kepala, jianyu, quchi. jiquan, chize, neiguan, hegu, baxie, weizhong, yanglingquan, zusanli, sanyinjiao, qiuxu tembus zhaohai.",
+    "Dibanding dengan terapi obat, akupunktur memberi hasil yang lebih baik： tetapi karena kompleksnya penyakit, terapi akupunktur masul(kelas II.",
+    [
+      "GB-20",
+      "LI-15",
+      "LI-11",
+      "HT-1",
+      "LU-5",
+      "PC-6",
+      "LI-4",
+      "BL-40",
+      "GB-34",
+      "ST-36",
+      "SP-6",
+      "GB-40",
+      "KI-6"
+    ]
+  ],
+  [
+    1,
+    2,
+    "Trigeminal Neuralgia (Primary)",
+    "GG50.002",
+    "Yuyao, sibai. )(iaguan, dichang, zhanzhu, hegu, taichong, neiting. Cabang optalmikus ditambah sizhukong, yangbai; cabang maksiler ditambah quanliao. yingxiang; cabang mandibuler ditambah jiache, yifeng.",
+    "Penyakit ini timbul sebagai Serangan berulang, disembuhkan: Akupunktur dapat meredakan gejala, mengurangi kambuh, meringankan serangan, tetapi tidak menyembuhkan karena itu masuk kelas II.",
+    [
+      "ST-7",
+      "ST-4",
+      "BL-2",
+      "LI-4",
+      "LR-3",
+      "ST-44",
+      "GB-14",
+      "LI-20",
+      "ST-6",
+      "SJ-17"
+    ]
+  ],
+  [
+    1,
+    3,
+    "Amyotropic Lateral Sclerosis",
+    "G12.3",
+    "：]iaji, pishu, ganshu. shenshu, dazhui, shenzhu. Ekstremitas superior, ditambah jiquan. quchi, shousanli, hegu; el<stremitas inferior ditambah biguan, futu, yanglingquan, zusanli, jiexi.",
+    "Penyakit kelainan progresif neuron sistem saraf. Setelah ditegakkan diagnosis waktu hidup diprediksi tersisa 2-5 tahun, rata-rata 3 tahun, tetapi ada yang hanya 1 tahun, yang berkembang lambat, kronis dapat mencapai 10 tahun. Dilaporkan akupunktur dapat menghambat dan mengurangi gejala penyakit ini, tetapi khasiat sangat terbatas, karena itu masuk kelas III.",
+    [
+      "BL-20",
+      "BL-18",
+      "BL-23",
+      "BL-11",
+      "HT-1",
+      "LI-11",
+      "LI-10",
+      "LI-4",
+      "GB-34",
+      "ST-36"
+    ]
+  ],
+  [
+    1,
+    3,
+    "Epilepsy",
+    "G40.0",
+    "Saat seragan: shuigou, neiguan. houxi, yongquan; saat tenang, baihui, fengfu, yintang, jiuwei, jinshu. changqiang, jianshi, yanglingquan, fenglong, taichong.",
+    "Saat serangan, titik shuigou (renzhong) dirangsang sampai pasien sadar. Terapi akupunktur dapat mengendalikan penyakit ini, tetapi tidak jelaS dapat menyembuhkan.",
+    [
+      "PC-6",
+      "SI-3",
+      "KI-1",
+      "BL-15",
+      "GB-34",
+      "ST-40",
+      "LR-3"
+    ]
+  ],
+  [
+    1,
+    3,
+    "Multiple Sclerosis",
+    "G35.0",
+    "：]iaji, jianliao； quchi. shousanli, hegu, waiguan. biguan, futu, zusanli, yanglingquan, sanyinjiao. Bila emosi mudah terangsang, ditambah baihui, shen.men, neiguan; bila ada gangguan pita suara, ditambah fengchi, lianquan. jinjin yuye; bila ada gangguan mata ditambah jingming, qiuhou, guangming.",
+    "Penyebab tidak jelas, belum dapat disembuhkan. Terapi akupunktur dapat mengurangi gejala tetapi tidak men'yembuhlan.",
+    [
+      "SJ-14",
+      "LI-11",
+      "LI-10",
+      "LI-4",
+      "SJ-5",
+      "ST-36",
+      "GB-34",
+      "SP-6",
+      "PC-6",
+      "GB-20",
+      "GB-21",
+      "BL-1"
+    ]
+  ],
+  [
+    1,
+    3,
+    "Paralysis Agitans(Parkinsonis Disease)",
+    "G20.0",
+    "Baihui, fengch, garis Lateral oksipital dan garis sensorik akupunktur kulit .kepala, fengfu, dazhui, ganshu, shenshu, quchi, hegu, zusanli, yanglingquan, sanyinjiao, taichong, taixi.",
+    "Rangsangan akupunktur kulit kepala dilakukan dengan cepat. 0 dlpUtar 2 Ox per menit untuk 1-3 menit, lalu jarum dicabut.",
+    [
+      "GB-20",
+      "BL-11",
+      "BL-18",
+      "BL-23",
+      "LI-11",
+      "LI-4",
+      "ST-36",
+      "GB-34",
+      "SP-6",
+      "LR-3",
+      "KI-3"
+    ]
+  ],
+  [
+    1,
+    3,
+    "Persistent Vegetative Status",
+    "S06 2/G93.1",
+    "Garis tengah dahi dan garis tengah verteks Akupunktur kulit kepala, shuigou, fengfu：yamen neiguan, laogong, shenmen, yongquan, sanyinjiao.",
+    "Prognosis penyakit ini erat berhubungan dengan usia, penyebab dan perjalanan penyakit. Usia makin lanjut kemungkinan pulih makin kecil. Lazimnya, pada penyeb.ab waishang, pulih kesadaran dalam waktu 1 tahun, yang bukan waishang 3 bulan. Saat ini belum ada cara terapi yang dapat menyembuhkan. Akhir-akhir ini didapati laporan bahwa akupunktur berhasil menyadarkan. Tetapi masih perlu dibuktikan lebih lanjut, karena itu digolongan dalam kelas III.",
+    [
+      "PC-6",
+      "PC-8",
+      "HT-7",
+      "KI-1",
+      "SP-6"
+    ]
+  ],
+  [
+    2,
+    1,
+    "Anorenia(Functional)",
+    "R63；0",
+    "Baihui, fengfu, pishu, weishu, zhongwan, jianli, liangmen, juji atau sifengTzusanli, taibai, neiting.",
+    "Sifengditusukdangkal.Terapiakupunkturberhasildenganbaik (Kelas I), berkhasiat memperbaiki pencernaan, merangsang pusat makan d otak.",
+    [
+      "BL-20",
+      "BL-13",
+      "SJ-14",
+      "SP-3",
+      "ST-44"
+    ]
+  ],
+  [
+    2,
+    1,
+    "Constipation(Non Organic)",
+    "I<59；0",
+    "Tianshu, shuidao, guilai, titik nyeri tekan, hegu, zhigou, zusanli, englong.",
+    "Biasanya titik nyeri tekan terletak 2 cun lateral titik shuidao dan/atau titik guilai. 3.5. F la tu le n c e (S im p le ) ICD10:R14 l(٥de Penyakit Berkhasiat Akupunktur: A-K-3 Saran formula : Zhongwan, tianshu, shenque, fujie, weishu, pishu, neiguan, hegu, zusanli. sanyinjiao. Keterangan :Terapi akupunktur• meningkatkan peristaltik sistem penCernaan.",
+    [
+      "ST-25",
+      "LI-4",
+      "SJ-6",
+      "ST-36",
+      "ST-40"
+    ]
+  ],
+  [
+    2,
+    1,
+    "J.4.Functional(Simple) Dispepsia",
+    "K30 0",
+    "Baihui. fengfu, pishu, weishu, ganshu, zhongwan, tianshu, fujie, neiguan, sifeng, zusanli. sanyinjiao, gongsun, taichong.",
+    "Terapi akupunktur meregulasi fungsi lambung-uSus, meningkatkan peristaltik, sekresi cairan pencernaan dan merangsang pusat pencernaan di otak. Merupakan terapi pilihan untuk functional dispepsia.",
+    [
+      "BL-20",
+      "BL-13",
+      "BL-18",
+      "ST-25",
+      "PC-6",
+      "SJ-17",
+      "ST-36",
+      "SP-6",
+      "SP-4",
+      "LR-3"
+    ]
+  ],
+  [
+    2,
+    1,
+    "Gastrointestinal Spasm(Simple)",
+    "!<31.813 58.902> ‫ا‬",
+    "Zhongwan, tia.nshu, neiguan, Uangqiu, hegu. zusanli.",
+    "PenuSukan titik jauh didahulukan dengSn rangsangan kuat, timbulnya rasa jarum diiringi hilangnya gejala Sembuh sekali tUsul(. umumnya rangsang termik diberikan untuk mengukuhkan hasil.",
+    [
+      "PC-6",
+      "LI-4",
+      "ST-36"
+    ]
+  ],
+  [
+    1,
+    1,
+    "N.Anales Pain",
+    "1<59；4",
+    "Baihui, fengfu, jiaji lumbal, ciliao, zhibian, changqiang, hegu, shenmen, chengshan, sanyinjiao.",
+    "Zhibian ditusuk dalam 2-3 cun di arahkan ke dubur.Akupunktur berhasil dengan baik pada penyakit ini, baik karena faktor psikis maupun sebagai komplikasi nyeri saraf lainnya.",
+    [
+      "LI-4",
+      "HT-7",
+      "BL-57",
+      "SP-6"
+    ]
+  ],
+  [
+    2,
+    1,
+    "Paralysis of Intestine After Operation",
+    "1(89.8 /1(91.9 /1(56.001",
+    "Saran forn ٦uLa:Zhongwan, shenque, tianshu, guilai, qihai. hegu, zusanli, xiajuKU, taibai.",
+    "Titik shenque diberi rangsang termis yang kuat, tianshu dan guilai dapat diberi rangsang listrik. Terapi akupunktur merupakan terapi pilihan.",
+    [
+      "ST-25",
+      "LI-4",
+      "ST-36",
+      "SP-3"
+    ]
+  ],
+  [
+    2,
+    0,
+    "Primary Gastroparasis Syndrome",
+    "1<38 ；‫； ا‬",
+    "Saran for+ula:Shangwan, zhcJngwan. youmen, weishu, pishu, neiguan, zusan\".",
+    "Gejala klinis penyakit ini antara lain adalah kembung, anoreksia, mua_L muntah dan nyeri epigastrik. Sampai saat Ini belum ada standar terapi penyakit n . Terapi aku_punktur berhasil baik pada jenis primer, dengan cepat meredakan gejala dan mencapai tujuan pemulihan.",
+    [
+      "LI-1",
+      "LU-2",
+      "BL-13",
+      "BL-20",
+      "PC-6",
+      "ST-36"
+    ]
+  ],
+  [
+    2,
+    1,
+    "Tempomandibular Joint Dysfunction Syndrome(Non Organic)",
+    "K07.6",
+    "Titik nyeri tekan, xiaguan, tinggong, taiyang, jiache, yifeng, hegu.",
+    "Tei^pi akupunktur meredakan nyeri dan meregulasi gerak persendian:",
+    [
+      "ST-7",
+      "SI-19",
+      "LU-9",
+      "ST-6",
+      "SJ-17",
+      "LI-4"
+    ]
+  ],
+  [
+    2,
+    2,
+    "cwte Gastroenteritis(Non Infection)",
+    "1(52 908",
+    "Tianshu, zhongwan, qihai. shenque, shangjuKU, chize, quchi, neiguam, shangyang, zusanli,",
+    "Chize. quchi. shangyang tusuk berdarah; shenque, qihai diberi rangsang termik. Gejala utama penyakit ini adalah muntaber.",
+    [
+      "ST-25",
+      "ST-37",
+      "LU-5",
+      "LI-11",
+      "PC-6",
+      "LI-1",
+      "ST-36"
+    ]
+  ],
+  [
+    2,
+    0,
+    "Cholelithiasis",
+    "1(80 0",
+    "Reye, qimen, danshu, yanglingquan, danang, qiuxu, taichong.",
+    "Titik danang dirangsang kuat 1-3 menit. Terapi akupunktur meregulasi kandung empedu dan hati, mendorong keluar batu dan meredakan nyeri yang timbul saat batu keluar.",
+    [
+      "LR-14",
+      "BL-18",
+      "GB-34",
+      "GB-40",
+      "LR-3"
+    ]
+  ],
+  [
+    2,
+    2,
+    "Chronic Diarrhea",
+    "I<52 9",
+    "Zhongwan, jianli. shenque, tianshu, gullal, pishu, shenshu, dachangshu, hegu, zusanli.",
+    "Disebutdiare kOnis apabila perjalanan penyakit lebih dari 2 bulan. Sebab sangat kompleks. 3.13. C h ro n ic N o n s p e c ific U lc e r a tiv e C o litis lC D lO :l ( 5 1 .0 /l (",
+    [
+      "SJ-14",
+      "ST-25",
+      "BL-20",
+      "BL-23",
+      "BL-25",
+      "LI-4",
+      "ST-36"
+    ]
+  ],
+  [
+    2,
+    2,
+    "Ulcerative Colitis / Chronic Colitis",
+    "",
+    "Saranfori^ula:Dachangshu, Klaochangshu. shenque, tianshu, guanyuan, shuidaoTguilai. titik nyeri tekan, hegu, zusanli, xiajuxu.",
+    "Titik nyeri tekan berlokasi 2 cun lateral titik shuidao dan titik guilal, dirangsang kuat 1-3 menit, dan dapat diberi rangsang listrik.",
+    [
+      "BL-25",
+      "ST-25",
+      "LI-4",
+      "ST-36"
+    ]
+  ],
+  [
+    2,
+    0,
+    "Chronic Superficial Gastritis",
+    "1(29.3",
+    "Shangwan, J٧4٧e, youmen, zhongwan, weishu, plshu, ganshu. zhongshu, jinsu. neiguan, hegu. zusanli, taichong.",
+    "Gastritis dibedakan dalam jenis superfisial da：n jenis atrofi. Pada jenis superfisial kelenjar lambung masih :utuh. Pada gastritis ditemukan H elibacter p u lo ri dan reaksi autoimun. Khasiat terapi akupunktur untUk jenis superfisial kelas II, sedangkan untuk jenis atrofi kelas III",
+    [
+      "LI-1",
+      "LU-2",
+      "BL-13",
+      "BL-18",
+      "SJ-3",
+      "PC-6",
+      "LI-4",
+      "ST-36",
+      "LR-3"
+    ]
+  ],
+  [
+    2,
+    0,
+    "Dynamic Ileus (Simple and Incomplete)",
+    "KK56.0 56.5 >‫ ا‬1>56.6 ‫",
+    "Kiawan, tianshus. shimen, daheng, fujie, dachangshu, hegu, zusanli. Bila muntah parah ditambah futu. zhongwan; semua titik di sekitar umbUikus ditusuk bersudut ke arah umbilikus.",
+    "Penyakit ini timbul karena gangguan refleks saraf p.ada dinding usus, sehingga peristaltik usus terganggu, dinding usus kejang, yang mengakibatkan s usus terhenti. Terapi akupunltur meridakan terapi utama penyakit, tetapi masih diperlukan dukungan tindakan lainnya. 3 .1 6 . G a s tro p to s is ( M ild a n d M o d e r a te ) IC D lO :l<3l821 l( ode Penyakit Berkhasiat Akupunktur: B-K-7 Saran formula : gaihu , shangWan, zhongwan, xiawan. pishu, weishu, zhiyang, lingtai, hegu；zusanli. Keterangan : Terjadi penyaldt ini erat berhubungan dengan ligamen yang mengfiksir letak lambung dan dinding abdomen. 3 .1 7 . R e c ta l P ro la p s e d , A n a l P ro la p s e d ( M ild A n d M o d e r a te )",
+    [
+      "ST-25",
+      "SP-15",
+      "BL-25",
+      "LI-4",
+      "ST-36"
+    ]
+  ],
+  [
+    2,
+    2,
+    "Haemorrhoids / Anal Disease",
+    "",
+    "Baihui, dachangshu, baihuanshu, huiyang, changqiang, chengsh- an.",
+    "Baihui diberi rangsang termik; changqiang ditusuk menyudut ke atas 1 cun, huiyang dan baihuanshu ditusuk tegak lurus sedalam 1,5 cun Rasa jarum yang ditimbulkan penusulon titik- titik itu diupayakan henjafar Sampai d anu.s. Saat ditusuk, pasien diminta untuk melakukan gerak mengangkat dubur berulang kaU.",
+    [
+      "BL-25",
+      "BL-57"
+    ]
+  ],
+  [
+    2,
+    3,
+    "Acute and Chronic Cholecystitis",
+    "1(810",
+    "Titik nyeri tekan, reye, qimen, zhigou, yanglingquan, danang, zusanli, taichong, qiuKu.",
+    "Penusukan dimulai dari titik-titik jauh, rangsangan kuat 1-3 menit. Terapi akupunktur dapat megurangi gejaia, meredakan nyeri, b e rtid a k Sebagai terapi pendUkung.",
+    [
+      "LR-14",
+      "SJ-6",
+      "GB-34",
+      "ST-36",
+      "LR-3"
+    ]
+  ],
+  [
+    2,
+    3,
+    "Acute Appendicitis (Simple)",
+    "I<35；9",
+    "Tianshu. titik nyeri tekan, quchi, shangjuxu, hegu. lanwei.",
+    "Penusukan dimulai dari titik-titik jauh： Titik Lanwei dirangsang kuat, tegak Lurus, 1-3 menit, sampai rasa nyeri reda. Terapi akupunktur hanya mengurangi gejala, tidak menyembuhkan：",
+    [
+      "ST-25",
+      "LI-11",
+      "ST-37",
+      "LI-4"
+    ]
+  ],
+  [
+    2,
+    3,
+    "Chronic Peptic ULcer",
+    "I<27.0",
+    "Shangwan, zhongwan. jianli, pishu, weishu, neiguan, hegu, zusanli, taichong, gongsun.",
+    "Terapi akupunktur dapat meredakan nyeri, meregulasi sekresi asarTi Lambung, tetapi tidak menyembuhkan, hanfa merupakan terapj pendukung. Medikamentosa adalah terapi Utama penyakit ini.",
+    [
+      "LI-1",
+      "SJ-14",
+      "BL-20",
+      "BL-13",
+      "PC-6",
+      "LI-4",
+      "ST-36",
+      "LR-3",
+      "SP-4"
+    ]
+  ],
+  [
+    2,
+    0,
+    "Mechanical Intestinal Obstructiom (Simple and Incomplete)",
+    "R33",
+    "Xiawan. tianshu, guilai. daheng, fujie, dachagshu, hegu, zusanli. Bila obstruksi karena cacing ditambah yingxiang, sibai; bila muntah parah ditambah zhongwan, neiguan.",
+    "Penusukan dirnula dari titik zusanli, rangsang kuat 1-3 menit, kemudian titik-titik sdi badomen, tusuk： miring di arahkan ke umbilikus. jarum ditinggal, setiap 5 menit rangsangan diulang sampai merasa ingin buang air besar.",
+    [
+      "ST-25",
+      "SP-15",
+      "BL-25",
+      "LI-4",
+      "ST-36",
+      "LI-20",
+      "PC-6"
+    ]
+  ],
+  [
+    3,
+    1,
+    "Acute Mastitis(Initial Stage)",
+    "N61.0",
+    "Danzhong, rugen, titik nyeri tekan, jianjing, tianzong. qimen, quchi, neiguan, shaoze, zusanli, neiting, )(ingjian.",
+    "Titik nyeri tekan mencakup daerah merah, bengkak payudara dan titll (rujukan di punggung. Titik nyeri telSn ini dltusu^^ berdarah, begitu juga titik shaoze.",
+    [
+      "GB-39",
+      "GB-21",
+      "LR-14",
+      "LI-11",
+      "PC-6",
+      "SI-1",
+      "ST-36",
+      "ST-44",
+      "LR-2"
+    ]
+  ],
+  [
+    3,
+    1,
+    "Distending Pain of Breast During Menstruation",
+    "N6A.4",
+    "Baihui, fengfu. danzhong, wuyi, rugen, jianjing, neiguan, hegu, sanyinjiao, taichong.",
+    "Pengobatan hormon, sulit menghindari efek samping, terapi akufunktur merupakan terapi pilihan.",
+    [
+      "GB-39",
+      "GB-21",
+      "PC-6",
+      "LI-4",
+      "SP-6",
+      "LR-3"
+    ]
+  ],
+  [
+    3,
+    0,
+    "Enuresis (Non Organic)",
+    "F98.0/R32",
+    "Saran form ula: Baihui, fengfu, zhongji, pangguangshu, ciliao. jiaji lumbal, sanyinjiao.",
+    ". Enuresis disebabkan gangguan• pus^t pengendalian BAK/ l<emih di koretek serebri dan di saraf spinal segmen sakral. Dapat sembuh dengan sendirinya, apabila berkepanjangan bisa sampai dewasa.",
+    [
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    1,
+    "Irregular Menstruration(Functional)",
+    "N92 .6 /N 9 1 .5 /N 9 1",
+    "Zigong, ciliao, hegu. sanynjiao. Bila datang haid maju ditambah baihui, qihai, pishu; bila haid datang terlambat ditambah geshu, Kuehai. taichong; bila darah haid banyak ditambah duanhong, yinbai, diji; bila darah sedikit ditambah zusanli, guanyuan. geShu.",
+    "Terapi akupunktur berkhasiat meregulasi menstrurasi.",
+    [
+      "LI-4",
+      "SP-6",
+      "BL-20",
+      "SP-10",
+      "LR-3",
+      "GB-39",
+      "SP-1",
+      "ST-36"
+    ]
+  ],
+  [
+    3,
+    1,
+    "Lump in Breast",
+    "N62_3/N6 0 .102",
+    "Danzhong, wuyi. rugen, jianjing, ganshu, weishu, pishu, neiguan, zusanli. fenglong.",
+    "",
+    [
+      "GB-39",
+      "GB-21",
+      "BL-18",
+      "BL-13",
+      "BL-20",
+      "PC-6",
+      "ST-36",
+      "ST-40"
+    ]
+  ],
+  [
+    3,
+    1,
+    "Premenstrual Tension Syndrome",
+    "N9A3",
+    "Belhul,fengfu, shendng. sanzhong, shenmen, hegu, sanyn taichong.",
+    "Penusukan dimulai 2 minggu sebelum haid datang. 4.7. P r im a r y D y s m e n o rrh e a",
+    [
+      "GB-39",
+      "HT-7",
+      "LI-4",
+      "LR-3"
+    ]
+  ],
+  [
+    3,
+    1,
+    "Dysmenorrhoea",
+    "",
+    "Zhongji, guilai, zigong, Ligou, ciliao. shenshu. hegu, diji, zusanli, sanyinjiao.",
+    "PenUsUkan dimulai 1 minggu sebelum haid datang sampai akhir haid. Terapi untuk 2-3 siklus haid.",
+    [
+      "BL-23",
+      "LI-4",
+      "ST-36",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    1,
+    "Retention of Urine Due to Dynamic Obstruction of The Urinary Tract",
+    "R33",
+    "Saran form u la : Zhonmgji, qugu, pangguangshu, jiaji lumbal, zhibian, yinlingquan, sanyinjiao,",
+    "RetenS, urin dihedakan dalam jenis obstruksi dinamik dan obstruksi mekanik. Disebabkan oleh masalah otot dinding saluran kendng, akibat 1) bedah dan anestesi., 2) kala II yang lama pada proses partus, 3) pengaruh obat, A) kelainan saraf： 5) faktor psikis. Terapi al<upunktur menjadi pilihan, terutama yang disebabkan pembedahan.",
+    [
+      "SP-9",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    1,
+    "Spermatorrhea",
+    "N50.8",
+    "Guanyuan. qihai, qugu, huiyin, zhishi. shenshu, pishu. zusanli, sanyinjiao.",
+    "LeWat regulasi sistem saraf, terapi akupunktur mengatasi spermatore.",
+    [
+      "BL-67",
+      "BL-23",
+      "BL-20",
+      "ST-36",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    1,
+    "Urethral Syndrome",
+    "N34.3",
+    "Huiyin, qugu, qihai. guanyuan, shenshu. zhibian atau Huiyang, pangguangshu； sanyTnjiao,",
+    "Qugu dan.huiyin ditusuk miring kearah genitalia, zhibian, hutang ditusuk kearah genitalia, rasa jarum diupayakan sampai di genitalia/anus.",
+    [
+      "BL-67",
+      "BL-23",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    2,
+    "ال.Chronic Prostatitis(Nonbacterial)",
+    "N41.1",
+    "Saran form ula: Zhongji, guanyuan, qugu. huiyin, zhibian, jiaji lumbal, yinlingquan, sanyinjiao：",
+    "Dengan cepat terapi akupunktur menghilangkan gejala, tetapi untuk menyembuhkan masih dibutuhkan dukungan terapi lain",
+    [
+      "BL-67",
+      "SP-9",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    2,
+    "Incontinence Urinea",
+    "R32",
+    "Baihui, jiaji lumbal, huiyang, zhongji. guanyuan, qugu,.",
+    "Huiyang ditusuk 2-3 cun kearah genitalia, rasa jarum menjalar kegenitalia/anus. Karena sebab yang kompleks, terapi akUpunktur bermanfaat tetapi tidak Menyembuhkan.",
+    []
+  ],
+  [
+    3,
+    2,
+    "Metropathia Hemorrhagica",
+    "N93.001",
+    "Baihui, fengfu, guanyuan, qihai. Zigong, geshu, shenshu, ciliao. duanhong (terletak di antara metakarpal dua dan tiga, 1 cun proksimaT persendian) Kuehai, zusanii, sanyinjiao, gongsun, yinbai.",
+    "Untuk keberhasilan terapi, perlu suatu terapi terpadu.",
+    [
+      "BL-23",
+      "GB-39",
+      "SP-10",
+      "ST-36",
+      "SP-6",
+      "SP-4",
+      "SP-1"
+    ]
+  ],
+  [
+    3,
+    2,
+    "Neurogenic Bladder Dysfunction(Non-lnborn)",
+    "N31.0",
+    "Jiaji lumbal, shenshu, pangguangshu, zhibian, zhongji, qugu, sanyinjiao, shuiquan.",
+    "Sebab penyakit ini antara lain kelainan bawaan, trauma, kelainan kortek serebri, medula spinalis, saraf perifer kandung kemih; sering merupakan komplikasi strol<e, multiple sclerosis： Terapi- akupUnktur merupakan terapi pilihan, tetapi karena kompleksnya penyebab dimasukkan kelas II.",
+    [
+      "BL-23",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    2,
+    "Pe،v/c Congestion Syndrome",
+    "N94.803",
+    "Jiaji lumbal, shenshu, pangguangshu, zhibian, zhongji, qugu, sanyinjiao, shuiquan.",
+    "Disebabkan oleh bekuan darah vena dalam rongga pelvis yang berlangsung kronis. GejaLa antara lain, nyeri perUt bSwah, pinggang, nyeri saat koitus dan/atau koitus tanpa rasa nyaman, sangat lelah, leukore yang berlebihan dismenore. Hanya dengan terapi akupunktUr fu llt menyembuhkan penyakit ini.",
+    [
+      "BL-23",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    2,
+    "Perimenopausal Syndrome",
+    "N95.1",
+    "Baihui, fengfu, jiaji, ganshu, shenshu. pishu, qihai, guanyuan. hegu, neiguan； shenmen, sanyinjiao, fuliu, taixi, taichong.",
+    "Pada saat ini terapi akupunktur merupakan terap pjlihan, tetapi untuk mencapai sembuh perlu didukung terapi lain.",
+    [
+      "BL-18",
+      "BL-23",
+      "BL-20",
+      "LI-4",
+      "PC-6",
+      "HT-7",
+      "SP-6",
+      "KI-7",
+      "KI-3",
+      "LR-3"
+    ]
+  ],
+  [
+    3,
+    2,
+    "Urolithiasis",
+    "ICD10 ： N 20/N 21",
+    "Zhongji, jingmen, shenshu, pangguangshu, sanyinjiao; atau shenshu sebagai titik utama, bila batu di ginjal dan di bagian atas ureter ditambah panggungshu; di bagian bawah ureter ditambah shuidao.",
+    "",
+    [
+      "BL-23",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    2,
+    "Rectal Prolapse / Anal Prolapse (Mild and Moderate)",
+    "8 l.4",
+    "Baihui, weidao, guanyuan. zigong, qihai, huiyin, changqiang, sanyinjiao.",
+    "Terapi akupunktur dapat memperkuat jaringan ila t penunjang uterus, tetapi sulit mencapai penyembuhan. 4 .1 9 . A m e n o r r h o e a (S e c o n d a ry )",
+    [
+      "BL-67",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    3,
+    "Amenorrhoea / Oligomenorrhoea",
+    "",
+    "Zigong, guilai； yinjiao, hegu, qichong, Kuehai, sanyinjiao.",
+    "Terapi akupunktur merupakan terapi penunjang.",
+    [
+      "SP-6",
+      "LI-4",
+      "ST-30",
+      "SP-10"
+    ]
+  ],
+  [
+    3,
+    0,
+    "Chronic Annexitis",
+    "N73.8",
+    "Titik nyeri tekan, guanyuan, shuidao, guilai, zusanli, sanyinjiao, ligou.",
+    "Titik nyeri tekan pada dinding abdomen. Terapi akupunktur hanya dapat meredakan gejala penyakit ini.",
+    [
+      "ST-36",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    3,
+    "Chronic Pelvic Inflammatory",
+    "ICDlO ： 73.9",
+    "T itik nyeri tekan, daimai, zigong, zhongji, shuidao, ciliao, sanyinjiao, ligou. hegu.",
+    "Khasiat terapi akupunktur terbatas.",
+    [
+      "SP-6",
+      "LI-4"
+    ]
+  ],
+  [
+    3,
+    0,
+    "Chronic Prostatitis(Bacterial)",
+    "NA1.1",
+    "Qugu, huiyin, zhibian, huiyang, shenshu, zusanli, sanyinjiao.",
+    "Terapi akupunktur hanya menghilangkan gejala.",
+    [
+      "BL-67",
+      "BL-23",
+      "ST-36",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    3,
+    "Female Infertility(Relativelnfertility)",
+    "ICDlO ： 97.0/N 97 ； l/N 9",
+    "Saran form ula: Guilai zigong, guanyuan, qihai, shenshu, ganshu. fenglong, zusanli, sanyinjiao.",
+    "Terapi akupUnltur merupakan terapi penunjang.",
+    [
+      "BL-23",
+      "BL-18",
+      "ST-40",
+      "ST-36",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    3,
+    "ه.ت.Hyperplasia Prostat",
+    "ICDlOjNAO.O",
+    "Huiyin. qugu, ciliao, zhibian, pangguangshu, sanyinjiao.",
+    "Terapi akupunktur dapat memperbaila kesulitan BAK/kemih sambal batas tertentu•",
+    [
+      "BL-67",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    3,
+    "Leuekeoplakia of Vulva",
+    "N90.4",
+    "T itik nyeri tekanan setempat, qugu, huiyin, ligou, xuehai, ququan, sanyinjiao.",
+    "Penyebab berhubungan dengan kelainan endokrin, genetik, infeksi yang merangsang secara berkepanjangan. Khasiat terapi akupunktur terbatas.",
+    [
+      "BL-67",
+      "SP-10",
+      "LR-8",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    3,
+    "Retention of Urine Due to Dynamic Obstruction of The Urinary Tract",
+    "R33",
+    "Guanyuan, zhongji, qugu, jiaji lumbal, zhibian, pangguangshu",
+    "Terapi penunjang:",
+    []
+  ],
+  [
+    3,
+    3,
+    "Urinary Tract Infection",
+    "N39.0",
+    "Saran fo ri^ u la :Z h 0ngji, shuldao, qugu, pangguangshu, ciliao, baihuanshu, feiyang, sanyinjiao.",
+    "Ter.apiakupUnk-tur hanya meredakan keluhan rangsangan pada saluran kemih.",
+    [
+      "SP-6"
+    ]
+  ],
+  [
+    4,
+    1,
+    "Acute Conjunctivitis",
+    "H10 3 >",
+    "Jingming, taiyang, fengchi, erjian, pembuluh darah di balik daun telinga, dazhui, titik nyeri tekan dorsal tubuh, ganshu, quchi, hegu, taichong. shaoshang, guanchong, Kingjian：",
+    "Terapi akupunktur mempercepat penyembuhan. 5.2. H o r d e o lu m l(： D lO :H 00.002 l( ode p.enyakit Berkhasiat Akupunktur: A-H-2 Saran formula : Zhanzhu, taiyang, yuyao, fengchi, erjian, titik nyeri tekan dorsal tubuh, erjian. neiting. shaoshang. Keterangan : T iti( nye.ri tekan dOrsaL tubuh biasanya ditemukan di tepi dalam skapula kontralateral, berupa bintik merah. Bintik ini dicukil d e g a n jarum prisma.",
+    [
+      "BL-1",
+      "LU-9",
+      "GB-20",
+      "BL-11",
+      "BL-18",
+      "LI-11",
+      "LI-4",
+      "LR-3",
+      "LU-11",
+      "SJ-1",
+      "LR-2"
+    ]
+  ],
+  [
+    4,
+    1,
+    "Paralytic Strabismus",
+    "H49.0",
+    "Saranfori^ula:Fengchi, heg.u, taichong, guangming. Lumpuh m. rectus medialis ditambah jingming, zhanzhu, yintang; lumpuh m. rectus lateralis ditambah tongziliao, taiyang; Lumpuh m, rectus superior ditambah shangming, zhanzhu; lumpuh m, rectus inferior ditambah chengqi. sibai; lumpuh m. obliqus superior ditambah qiuhou, sibai; Lumpuh m, obliqus inferior ditambah sizhukong, shangming.",
+    "Ketepatan diagnosis fotot yang lumpuh) memberi hasil terapi yang• baik.",
+    [
+      "GB-20",
+      "LR-3",
+      "BL-1",
+      "BL-2",
+      "GB-1",
+      "LU-9",
+      "ST-1"
+    ]
+  ],
+  [
+    4,
+    1,
+    "Pseudomiopia",
+    "ICD10 ： H52.1",
+    "jingming, chegqi, sibai, taiyang, fengchi, yiming (lokasil cun posterior yifeng). guangming, ganshu, shenshu.",
+    "Penyakit ini sering ditemukan pada pelajar remaja. Terjadi karena kebiasaan buruk saat belajar, membaca, penerangan yang buruk.",
+    [
+      "BL-1",
+      "ST-1",
+      "LU-9",
+      "GB-20",
+      "SJ-17",
+      "BL-18",
+      "BL-23"
+    ]
+  ],
+  [
+    4,
+    1,
+    "Rppid Movement of Orbicularis",
+    "F95；801 !",
+    "Baihui. fengfu ；fengchi, yangbai, taiyang, sibai, hegu, taichong.",
+    "Gejala kelopak mata berkedip-l<edip berulang tanpa sadar. Biasanya timbul akibat kecapaian, stres dan rangsangan pada daerah mata. Terapi akupunktur merupakan te ra ^ pilihan.",
+    [
+      "GB-20",
+      "GB-14",
+      "LU-9",
+      "LI-4",
+      "LR-3"
+    ]
+  ],
+  [
+    4,
+    1,
+    "Syndrome of Asthenopsia",
+    "H53.1",
+    "Baihui, touwei, chengqi, yangbai. tongziliao, fengchi, yiming, neiguan, guangming,taichong.",
+    "Setelah melihat terus menerus, penglihatan kabur, mata bengkak, kering/berairmata, nyeri-pegal sekitar orbita, dapat disertai pusing, nyeri kepala, mual dan letih lesu. Hanya denganterapi akupunktur tunggal, penyakit ini dapat disembuhkan.",
+    [
+      "ST-1",
+      "GB-14",
+      "GB-1",
+      "GB-20",
+      "PC-6",
+      "LR-3"
+    ]
+  ],
+  [
+    4,
+    2,
+    "Central Serous Chorioretinopathy",
+    "H35-7",
+    "Chengqi.. qiuhou, sibai, zhanzhu, fengchi. yiming, Hegu, guangming sanyinjiao.",
+    "Penyakit dapat Sembuh sendiri, dalam ذ bulan penglihatan pulih, dalam 6 bulan gejaLa hilang, tetapi sejumlah kecil berlanjut dengan sejumlah komplikasi. Terapi akupunktur mempercepat pemulihan dan karena komplikasi umumnya parah, terapi akupunktur perlu dipadu dengan terapi Lain.",
+    [
+      "ST-1",
+      "BL-2",
+      "GB-20",
+      "LI-4",
+      "SP-6"
+    ]
+  ],
+  [
+    3,
+    2,
+    "Cornea Xerosis(Causedby Oligodacrya)",
+    "H ll.l0 4",
+    "Jingming, chengqi, sibai. fengchi, houquanliao (lokasi 1 cun posterior quanliao). ganshu, shenshu, guangming.",
+    "Terapi akupunktur dapat meningkatkan produksi airmata, tetajji, untuk sembuh kasih perlu dukungan terapi lain.",
+    [
+      "BL-1",
+      "ST-1",
+      "GB-20",
+      "BL-18",
+      "BL-23"
+    ]
+  ],
+  [
+    4,
+    2,
+    "Ocular Hypertension and Primary Open Angle Glaucoma",
+    "H 40.0/H 40.1",
+    "Baihui, fengchi. qiuhou, zhanzhu, taiyang, yangbai, tongziliao, sibai.",
+    "Terapi akupunktur dapat menurunkan tekanan Intraokuler yang meninggi, tetapi untuk menyembuhkan penyakit ini inasih membutuhkan terapi lain.",
+    [
+      "GB-20",
+      "BL-2",
+      "LU-9",
+      "GB-14",
+      "GB-1"
+    ]
+  ],
+  [
+    4,
+    2,
+    "Optic Atrophy",
+    "H47 2",
+    "jianming (lokasi 0,4 cun di bawah jingming pada batas dalam tulang orbita), qiuhou, jingming, dipadu dengan shenshu, hegu, yiming, yangbai.",
+    "Penelitian RCT bermutu tinggi membuktil<an terapi akupunktur berkhasiat perbaikan penglihatan lebih baik •dibandingkan dengan pemberian ob_at, namun belum dapat dimasukkan dalam kelas I.",
+    [
+      "BL-1",
+      "BL-23",
+      "LI-4",
+      "GB-14"
+    ]
+  ],
+  [
+    4,
+    2,
+    "Ptosis of Eyelid(Acquired,Paralytic,Myogenic)",
+    "H 02/4",
+    "Yintang, zhanzhu, touwei, yangbai. yiyao, taiyang, fengchi, waiguan, hegu, zusanli, kunlun.",
+    "Terapi akupunktur terutama ditujukan pada ptosis karena miastenia gravis dan kelainan saraf motorik mata. Terapi perlU didukung terapi jenis lain.",
+    [
+      "BL-2",
+      "GB-14",
+      "LU-9",
+      "GB-20",
+      "SJ-5",
+      "LI-4",
+      "ST-36",
+      "BL-60"
+    ]
+  ],
+  [
+    4,
+    2,
+    "Retinal Asterial Vascular Occlusions",
+    "H34.201",
+    "Jingming, qiuhou, yangbai. chengqi. yiming, taiyang, hegu, fengchi, tianzhu, quchi, waiguan, guyangming； taichong.",
+    "Gejala penyakit ini adalah penglihatan yang turun secara drastis.Terapi akupunktur dapat memperbaiki vaskularisasi, tetapi untuk su m b_ata_ sih perlu dukungan terapi lain.",
+    [
+      "BL-1",
+      "GB-14",
+      "ST-1",
+      "LU-9",
+      "LI-4",
+      "GB-20",
+      "BL-10",
+      "LI-11",
+      "SJ-5",
+      "LR-3"
+    ]
+  ],
+  [
+    4,
+    2,
+    "Senile Incipient Cataract",
+    "H25.0",
+    "Shangming (lokasi pada pertengahan tulang orbita atas), sizhukong, qiuhou atau zhanzhu, chengqi, tongziliao, fengchi； tianzhu, guangming；Hati, ginjal, mata, mata-1, mata-2, Akupunktur Daun Telinga.",
+    "UntUl( stadium pergulaan, terapi akupunktur dapat pempertajam penglihatan sekalipun keruh lensa mata tidak hilang.",
+    [
+      "BL-2",
+      "ST-1",
+      "GB-1",
+      "GB-20",
+      "BL-10"
+    ]
+  ],
+  [
+    4,
+    3,
+    "Amblyopia",
+    "H55.0",
+    "Touwei, jingming, qiuhou, taiyang, yiming, fengchi, daerah penglihatan (AkUpUnktur Daun Telinga), ganshu, shenshu, zusanli, guangming, ququan.",
+    "Terapi akupunktur sebagai terapi penunjang.",
+    [
+      "BL-1",
+      "LU-9",
+      "GB-20",
+      "BL-18",
+      "BL-23",
+      "ST-36",
+      "LR-8"
+    ]
+  ],
+  [
+    4,
+    3,
+    "Optic Neuritis",
+    "H46.0",
+    "Oiuhou, jingming, taiyang, fengchi, yiming, waiguan, hegu.",
+    "Terapi akupunktur dapSt me^nperCepat penyembuhan dan merupakan terapi penunjang penyakit ini.",
+    [
+      "BL-1",
+      "LU-9",
+      "GB-20",
+      "SJ-5",
+      "LI-4"
+    ]
+  ],
+  [
+    4,
+    0,
+    "Card١ac Neuros١s",
+    "F45.3 0 8",
+    "Baihui, fengfu, yintang, juque, danzhong, xinshu, jueyinshu, zhiyang, neiguan, shenmen, atau jiaji torak",
+    "Merupakan kelainan sistem vegetative. Gejala antara lain berdebar, nyeri dada, napas sulit: lesu letih, banyak keringat, Insomnia, n.apsu makan kurang. Terapi akupunktur dapat menghilangkan gejala sampai sembuh.",
+    [
+      "GB-39",
+      "BL-15",
+      "PC-6",
+      "HT-7"
+    ]
+  ],
+  [
+    4,
+    0,
+    "Depression(Mild and Moderate)",
+    "F32；9",
+    "Shulgou, baihui. fengfu. yintang. anmian. jiaji. ganshu. danzhong, neiguan. shenmen, sanyinjiao, taichong ：",
+    "Medikamentosa kedokteran dapat mengatasi penyakit ini tetapi penggunaan obat dalam jangka panjang dapat menimbulkan efek samping. Menurut hasil penelitian, terapi akupunktur dapat m e m te hasil yang baik, sekalipun sufit menyembuhkan total jenis yang parah.",
+    [
+      "BL-18",
+      "GB-39",
+      "PC-6",
+      "HT-7",
+      "SP-6",
+      "LR-3"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Globus Hystericus",
+    "F45；8",
+    "Bahui, fengfu: titik nyeri tekan d lehar, n ganshu. neiguan, taichong.",
+    "Gejala utama merasa -ada sesuatu mengganja- l dalam tenggorokan, yang tidak jelas ada kelainan organik. Pada saat ini terapi akupunktur merupakan terapi pilihan pertama. 2 ه 8",
+    [
+      "BL-18",
+      "PC-6",
+      "LR-3"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Hysteria",
+    "FA4.9",
+    "Shuigou, neiguan, shenmen, taichong, sanyinjiao,",
+    "Dibedakan dalam sejumlah jenis.",
+    [
+      "PC-6",
+      "HT-7",
+      "LR-3",
+      "SP-6"
+    ]
+  ],
+  [
+    5,
+    0,
+    "Hysterical Anesthesia and Sensory Loss",
+    "",
+    "Saranfor^iula:Shuigou, baihui, shenting, neiguan, Zhong chong, yonguan, titik nyeri tekan:",
+    "Titik nyeri tekan pada daerah gangguan sensorik. Terapi akupunktur berhasil dengan baik",
+    [
+      "PC-6",
+      "LU-1",
+      "ST-30",
+      "KI-1"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Hysterical Aphonia and Dysphonia",
+    "",
+    "Shuigou. lianduan, renying, neiguan, hegu, shenmen.",
+    "Tipe histeri dengan hilang suara fungsional, pita suara lumpuh. Biasanya timbul karena marah atau sedih yang berlebihan. Terapi akupunktur dapat langsung berefek.",
+    [
+      "PC-6",
+      "LI-4",
+      "HT-7"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Hysterical Convulsion",
+    "F44；5",
+    "Shuigou, jingpi, quchi, neiguan, hegu, zhongchong, weizhong.yanglingquan, taichong.",
+    "Gejala : tiba-tiba seluruh badan kaku kejang, mata terpejam, rahang terkancing, napas tertahan: atau ; atau dua tangan mencakar： cakar, merobek pakaian, mencengkerami rambut, berguling-guling; berSngsung 20-30 menit; kemudian mereda atau dilanjutkan dengan ledakan emosi. Terafi akupunktur langsung memberi hasil.",
+    [
+      "LI-11",
+      "PC-6",
+      "LI-4",
+      "PC-9",
+      "BL-40",
+      "GB-34",
+      "LR-3"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Hysterical Disorders of Hearing and Vision",
+    "F44.7",
+    "Shuigou, baihui.sdhenmding, garis lateral oksipital dan garis posterior temporal (Akupunktur Kulit Kepala), jingming, chengqi, fengchi, tinggong, tinghui, shenmen, taichong, yongquan, shuigou, neiguan, taichong.",
+    "Terapi akupunktur dapat langsung berkhasiat.",
+    [
+      "BL-1",
+      "ST-1",
+      "GB-20",
+      "SI-19",
+      "GB-2",
+      "HT-7",
+      "LR-3",
+      "KI-1",
+      "PC-6"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Hysterical Paralysis",
+    "",
+    "Shuigou, quchl, neiguan, hegu, zhongchong, weizhong, yanglingquan, taichong yinbai, yongquan.",
+    "Lumpuh jenis ini tidak sesUai dengan anatomi penyebaran segmen. Terapi akupunktur dapat Langsung menyembuhkan.",
+    [
+      "PC-6",
+      "LI-4",
+      "PC-9",
+      "BL-40",
+      "GB-34",
+      "LR-3",
+      "SP-1",
+      "KI-1"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Neurasthenia",
+    "F48 0",
+    "Baihui. fengfu. sishenzong, fengchi, xinshu. pishu, shenshu, ganshu.gaohuangshu, yaoyangguan, neiguan, guanyuan, qihai, zusanfi. xianzhong, sanyinjiaoTtaixi; atau jiaji.",
+    "Dua jenis neurasthenia. Pertama, gangguan pada pusat kelelahan di kortek serebri, yang berhubungan dengan pekerjaan sehari-hari; gejala berUpS prestasi l(eJa menurUn. Sulit •berkonsentrasi, gangguan daya: berpikir; Jenis kedua., dengan gejala setelah bekerja sedikit saja, - badan tidak bertenaga, lemah, letih, tidak bersemangat, disertai nyeri linu otot, rasa tidak nyaman. Kedua jenis neurasthenia ini sering diiringi oleh rasa kuatir, perasaan mudah tersinggung, gelisah dan depresi, insomnia atau sebaliknya mau tidur meluLu. Terapi akupunktur merupakan terapf pilihan. 6.6. Non Organic Insomnia (Mild and Moderate)",
+    [
+      "GB-20",
+      "BL-15",
+      "BL-20",
+      "BL-23",
+      "BL-18",
+      "KI-16",
+      "PC-6",
+      "ST-36",
+      "GB-39"
+    ]
+  ],
+  [
+    5,
+    0,
+    "l 〔D l0:F 51.0",
+    "",
+    "Sishenzong baihui: fengfu, yintang, anmien, jiaji, fengchi. shenmen, zhaohai, shenmai.",
+    "jiaji diambil mulai dari torak dan lumbal. Nonorganic insomnia meliputi suLit tidur, tidur cepat terbangun, tidur bangun terlalu cepat. Terapi akupunktur pada jenis ringan dan sedng berhasil dengan baik, untuk jenis yang parah masih diperlukan dukungan obat.",
+    [
+      "GB-20",
+      "HT-7",
+      "KI-6"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Sexual Dysfunction Not Caused by Organic Diseases",
+    "FF52.0",
+    "Baihui, fengfu, guanyuan, qugu, jiaji lumbal, shenshu, yangyangguan, huiyang. qichong, zusanli, sanyinjiao.",
+    "Bila disertai ejakulasi dini, ditambah dengan zhishi. Huiyang ditusuk- tegak Lurus 2-3 cun, sampai rasa jarum sampai alai genitalia.",
+    [
+      "BL-23",
+      "ST-30",
+      "ST-36",
+      "SP-6"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Syndrome of Examination",
+    "F48；8",
+    "Baihui, sishenzong, fengchi. jiaji torak, danshu, shenmen, neiguan. laogong, sanyinjiao.",
+    "Gejala yangtimbulsaat menghadapi ujianatau bertanding atau naik panggung karena tegang yang berlebihan menyebabkan gangguan regulasi antara rangsangan dan hambatan di kortek serebri, yang：selanjutnya menyebabkan gangguan vegetative dengan sederatan l^eLuhan: Terapi akupunktur dapat menyembuhkan.",
+    [
+      "GB-20",
+      "BL-18",
+      "HT-7",
+      "PC-6",
+      "PC-8",
+      "SP-6"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Transient Tic Disorder",
+    "F95.0",
+    "Basihui fengfu, fengchi. shuigou, zhanzhu, yangbai. taiyang, jiache, futu, jianjing, jinshu, yanglingquan, taichong, shenmen, hegu.",
+    "Terapi akupunktur efektif untuk tic yang baru, belum sampai 1 tahu.n.",
+    [
+      "GB-20",
+      "BL-2",
+      "GB-14",
+      "LU-9",
+      "ST-6",
+      "GB-21",
+      "BL-15",
+      "GB-34",
+      "LR-3",
+      "HT-7",
+      "LI-4"
+    ]
+  ],
+  [
+    5,
+    1,
+    "Vominting Neurosis",
+    "F50.501",
+    "Baihui, fengfU, zhongwan, weishu, geshu, neiguan, zusanLi, taichong.",
+    "Penyakit ini erat berhubungan dengan faktor psikososial. Terapi akupunktur sangat berhasil, dapat mencapai tujuan men.yembu.hkan.",
+    [
+      "BL-13",
+      "PC-6",
+      "ST-36",
+      "LR-3"
+    ]
+  ],
+  [
+    5,
+    2,
+    "Anxiety Disorder",
+    "F41.1",
+    "Baihui. shenting, xinshu, jueyinshu, danshu, ganshu, shenshu, shenmen, hegu； sanyinjiao, fuliu, taixi.",
+    "Terapi akupunktur perlu didukung dengan terapi jenis lain.",
+    [
+      "BL-15",
+      "BL-18",
+      "BL-23",
+      "HT-7",
+      "LI-4",
+      "SP-6",
+      "KI-7",
+      "KI-3"
+    ]
+  ],
+  [
+    5,
+    2,
+    "Chronic Fatigue Syndrome",
+    "F48 001",
+    "Saran form ula: Baihui. sishenzong, qihai, guanyuan, shenque, jiaji, pishu, ganshu, Kinshu, gaihuangshu, hegu, zusanli, yanglingquan, Kianzhong,",
+    "Sampai saat ini belum diketahui penyebab yang pasti.Terapi al- unktur perlu didukung terapijenis lain.",
+    [
+      "BL-20",
+      "BL-18",
+      "BL-15",
+      "KI-16",
+      "LI-4",
+      "ST-36",
+      "GB-34"
+    ]
+  ],
+  [
+    5,
+    0,
+    "Chronic Motor or Vocal Tic Disorder",
+    "F95.1",
+    "Shuigou, baihui,fengfu,shangKing,fengchi,Lianquanyinhoubi, jiache, jiaji, jinshu. ganshu, hegu, daling, shenmen；zusanLi. sanyinjiao. taichong, taixi.",
+    "Yinhoubi (dinding belakang tenggorokan) ditusuk menggunakan jarum panjang •2:3 cun,Tusukan superfisial, tidak ditinggal. Tie jenis ini lebih berat daripada transient tic A-F-9.",
+    [
+      "GB-20",
+      "ST-6",
+      "BL-15",
+      "BL-18",
+      "LI-4",
+      "PC-7",
+      "HT-7",
+      "ST-36",
+      "SP-6",
+      "LR-3",
+      "KI-3"
+    ]
+  ],
+  [
+    5,
+    2,
+    "Dementia (Mild and Moderate)",
+    "F00/F01/ F03",
+    "Baihui, sishenzong, benshen, shentl.ng, shangxing, fengfu. fengehi. xinshu, shenshu, daling, tongli. guanyuan, sanyinjiao. fenglong, xianzhong, taiKi, yongquan.",
+    "Titik-titik di kepala diberi rangsang elektrik. Klinis demensia dibedakan dalam demensia-jeniS vaskuler dan demens a Alzheimer.Sampai saat ini belum ada pengobatan demensia yang terpecaya.Terapi akupunktur pada demensia jenis ringan dan sedang dapat memperbaiki kecerdasan, berkhasiat lebih baik dibanding dengan pengobatan pada umumnya, tetapi tidak menyembuhkan.",
+    [
+      "GB-31",
+      "BL-15",
+      "BL-23",
+      "PC-7",
+      "SP-6",
+      "ST-40",
+      "GB-39",
+      "KI-1"
+    ]
+  ],
+  [
+    5,
+    2,
+    "Hyperkinetic Disorders",
+    "F90.0",
+    "Yintang, baihui, slshenzong, fengchi, shenshu, xinshu. yanglingquan, hegu, shenmenTtaichong.",
+    "DalSmlO tahun terakhir in , diketahui pada pengobatan obat pada penyakit ini menimbulkan efek sa- ing yang, tidak dapat dihindari. ：Penelitian menunjukkan terapi akupunktur dipadu dengan obat dalam dosis keCll berhasil, 'prognOsis yang b a k",
+    [
+      "GB-20",
+      "BL-23",
+      "BL-15",
+      "GB-34",
+      "LI-4"
+    ]
+  ],
+  [
+    5,
+    2,
+    "Irritable Bowel Syndrome",
+    "FA5；3",
+    "Baihui. fengfu. zhongwan, guilai, tianshu, weishu, pishu, neiguan, shenmen, shangjuxuTzusanU. taichong.",
+    "Penyakit ini erat berhubungan dengan faktor psikis, faktor hormon lambung usus, faktor imunologik, faktor peristaltik usus, dan faktor kepekaan organ visera; penyakit dengan penyebab yang komplek.Terapi akupunktur dapat meredakan gejala penyakit ini. untuk sembuh perlu dukungan terapi lain.",
+    [
+      "ST-25",
+      "BL-13",
+      "BL-20",
+      "PC-6",
+      "HT-7",
+      "LR-3"
+    ]
+  ],
+  [
+    5,
+    2,
+    "Obsessive Compulsive Disorder",
+    "ICDlOj F42.1",
+    "Baihui, shenting, danshu, xinshu, pishu, shenmen, dating.",
+    "Terapi: akupunktur dapat menjadi terapi penting untuk penyakit ini, tetapi perlu dukungan terapi lainnya Grutama terapi psikiatrik.",
+    [
+      "BL-18",
+      "BL-15",
+      "BL-20",
+      "HT-7",
+      "PC-7"
+    ]
+  ],
+  [
+    5,
+    0,
+    "Post Contussional Syndrome",
+    "F07:2",
+    "Baihul, touwei, taiyang, yintang, sishenzong, fengchl, zhongwan, qimen, hegu, daling, zusanli, taichong, lidui.",
+    "TerapSkupUnktur dafat memperbaiki gejala, untuk perbaikan lebih lanjut diperlukan terapi terpadu.",
+    [
+      "LU-9",
+      "GB-20",
+      "LR-14",
+      "LI-4",
+      "PC-7",
+      "ST-36",
+      "LR-3",
+      "ST-45"
+    ]
+  ],
+  [
+    5,
+    2,
+    "Syndrome of Withdrawal (Withdrawal State)",
+    "FlO；3 / F l l 3 / F l i 3",
+    "a. Putus rokok : Lieque, hegu, shenmen, tianmei (titik tengah garis penghubung :leque-dan yangxi), fenglong. b. Purus alkohol : Baihui, pishu, weishu, shenmen, zusanli, sanyinjiao. C. Putus narkotika : Shuigou, fengchi, hegu, neiguan, laogong, [englo.",
+    "TerSpi akupunktur dapat berkhasiat untuk sindrom ini, tetapi yang penting, tetap adalah tekad penderita. Sampai saat ini belum ada terapi pilihan untuk sindrom ini, terutama lebih sulit untuk putus narkotika.",
+    [
+      "LU-7",
+      "LI-4",
+      "HT-7",
+      "LI-5",
+      "ST-40",
+      "BL-20",
+      "BL-13",
+      "ST-36",
+      "SP-6",
+      "GB-20",
+      "PC-6",
+      "PC-8"
+    ]
+  ],
+  [
+    5,
+    3,
+    "Childhood Autism",
+    "F84；0",
+    "Baihui, sishenzong, shenting, garis anterior oblique verteks- temporal, garis posterior oblique vertex-temporal gari.s tengah dahiTgaris anterior temporal (Akupunktur Kulit Kepala), neiguan, shenmen. zusanli. laogong, taini.",
+    "Akhir-akhir ini dilaporkan keberhasilan akupunktur dalam terapi penyakit ini, s_ebagai terapi pendukung.",
+    [
+      "PC-6",
+      "HT-7",
+      "ST-36",
+      "PC-8"
+    ]
+  ],
+  [
+    5,
+    3,
+    "Mental Retardation (Mild and Moderate)",
+    "F70/F71",
+    "Baihui, sishe_nzong, shenting, garis tengah dahi, garis anterior oblique verteK-temporal dan garis anterior temporal (Akupunktur Kulit Kepala), jiaji, dazhui, shentang, Kinshu, pishu, shenshu. guanyuan；tongli, daling, shenmen, zusanli, kianzhong.",
+    "Terap akupunktur merupakan terapi pendukung, untuk meningkatkan kecerdasan, memperbaiki gejala tetap khasiat sangat terbatas. 6.22. Schizophrenia",
+    [
+      "BL-11",
+      "BL-15",
+      "BL-20",
+      "BL-23",
+      "PC-7",
+      "HT-7",
+      "ST-36"
+    ]
+  ],
+  [
+    5,
+    3,
+    "Schizophrenia",
+    "",
+    "Shuigou. yintang, shenting, fengchi, fengfu, Kinshu. pishu, ganshu, neiguan, shenmen, laogong, daling ： taibai, taichong.",
+    "Terapi akupunktur merupalon terapi penunjang.",
+    [
+      "GB-20",
+      "BL-15",
+      "BL-20",
+      "BL-18",
+      "PC-6",
+      "HT-7",
+      "PC-8",
+      "PC-7",
+      "SP-3",
+      "LR-3"
+    ]
+  ],
+  [
+    6,
+    1,
+    "Acne Vulgaris (First Degree)",
+    "L70；0",
+    "Titik setempat, yangbai, quanliao, yingxiang, erjian, feishu, dazhui, quchi. hegu, neiting.",
+    "Titik setempat 3-5 buah mengitari daerah kelainan yang tampal( parah. Erjian, feishu dandazhui tusuk berdarah.",
+    [
+      "GB-14",
+      "LI-20",
+      "BL-13",
+      "BL-11",
+      "LI-11",
+      "LI-4",
+      "ST-44"
+    ]
+  ],
+  [
+    6,
+    1,
+    "Acute Eczema (No Complication)",
+    "L20 8",
+    "Titik setempat, jiaji, feishu, shuidao, quchi, yinlingquan, hegu, sanyinjiao, zusanli,",
+    "DaeSh eksim diketuk dengan jarum kuqt kemudian dihangati dengan moksa silinder _ةا 1 ة menit, jiaji setinggi segmen daerah kelainan, diketuk jarum kekulit sampai kulit menjadi merah.",
+    [
+      "BL-13",
+      "LI-11",
+      "SP-9",
+      "LI-4",
+      "SP-6",
+      "ST-36"
+    ]
+  ],
+  [
+    6,
+    1,
+    "Acute Lymphangitis (Superficial)",
+    "L03.0",
+    "Titik setempat, lingtai, dazhui, quchi, hegu, neiting.",
+    "Titik nyeri tekan merupakan titik perm.ulaan atau titik akhir garis 'merah sepanjang saluran limfa terkenal, ditusuk berdarah,sehari dua kali.",
+    [
+      "BL-11",
+      "LI-11",
+      "LI-4",
+      "ST-44"
+    ]
+  ],
+  [
+    6,
+    1,
+    "Alopecia Capitis Totalis",
+    "L63.901",
+    "T itik setemp3t, baihui, fengchi, tongtian, dazhui, ganshu. shenshu.",
+    "Titik setempat merupakan titik kelainan seten^pat, daerah tanpa rambut, diketuk jarum kulit, sampai menjadi merah, atau dengan jarum 1 cun dilakukan penusukan keliling menyusur tepi daerah kelainan. Dan daerah tanpa rambut ini dapat digosok dengan jahe.",
+    [
+      "GB-20",
+      "BL-11",
+      "BL-18",
+      "BL-23"
+    ]
+  ],
+  [
+    6,
+    1,
+    "Pruritus (Psychogenic, Senile, Seasonal)",
+    "L29.；0",
+    "Baihui, fengfu, titik setempat, jiaji. feishu, fengmen, geshu, quchi, Kuehai, fengshi. sanyinjiao.",
+    "Jiaji diambil sesUai dengan；segmen daerah kulit terkena. Terapi akupunktur berkhasiat menghilangkan rasa gatal, men.yembuhkan pruritus.",
+    [
+      "BL-13",
+      "LI-11",
+      "SP-10",
+      "GB-31",
+      "SP-6"
+    ]
+  ],
+  [
+    6,
+    1,
+    "Urticaria (No Complication)",
+    "L50.0",
+    "Titik setempat, fengchi. dazhui, feishu, geshu, tianshu. quchi. hegu, Kuehai, weizhong, neiting.",
+    "Urtikaria biasanya dalam 6 minggu sembuh sendiri, terapi akupunktur menghilangkan gejala, mempercepat penyembuhan, merupakan terapi pilihan.",
+    [
+      "GB-20",
+      "BL-11",
+      "BL-13",
+      "ST-25",
+      "LI-11",
+      "LI-4",
+      "SP-10",
+      "BL-40",
+      "ST-44"
+    ]
+  ],
+  [
+    6,
+    2,
+    "Chloasma",
+    "L8ll",
+    "Titik setempat.",
+    "Daerah kel.ainan diamati, warna dan luasnya. Pilih terlebih dul٧daerah yang luas, kemudian secara berthap daerah yang Lebih kedi. Rangsangan digunakan jarum api, ukuran j3ruf^ api disesuailon. Sebelum melakukan penusukan jarum api, sebaiknya dilakukan anestesi Lokal, jarum-api ditusukkan dengan cepat, lalu dicabut, tidak ditinggal. Pada chloasthma yang berWarna gelap, tusukan hendaknya bertenaga kuat. Sedangkan pada yang bewarna muda, ten.aga ringan. Daerah ( elainan akan berubah pucat dan membentuk keropeng (kusta). Terapi akupunktu.r meringankan gejala, tetapi sulit sembuh sempurna; sebagian kecil dalam setengah tahun bisa kambuh, untuk itu, terapi akupunktur diulang dan.tetap berkhasiat. 7 .1 0 . F re c k le s",
+    []
+  ],
+  [
+    6,
+    2,
+    "Freckles",
+    "",
+    "Titik setempat, yintang, yingKiang, quanliao. feishu, ganshu. quchi, hegu； xuehai, sanyinjiao.",
+    "Pilih daerah freckles paling besar dulu, baru kemudian yang kecil-kecil. Pada freckles terpilih tusuk pusat dan kelilingnya： 3 -5 敝",
+    [
+      "LI-20",
+      "BL-13",
+      "BL-18",
+      "LI-11",
+      "LI-4",
+      "SP-10",
+      "SP-6"
+    ]
+  ],
+  [
+    6,
+    2,
+    "Neurodermatitis (Circumscribed)",
+    "L28.0",
+    "T itik setempat, jiaji, fengchi, dazhul, quchl, hegu, zusanli, xuehai.",
+    "Titik setempat daerah kelainan ditusuk keliling, 6-8 titik.arah penusukan ke pusat kelainan. Pusat kelainan juga ditusukl-3 jarum, jia ji dipilih setingkat dermatom daerah kelainan. 7.12. C h ro n ic U lc e r o f L o w e r L im b",
+    [
+      "GB-20",
+      "BL-11",
+      "LI-4",
+      "ST-36",
+      "SP-10"
+    ]
+  ],
+  [
+    6,
+    3,
+    "Chronic Ulcer of Lower Limb",
+    "",
+    "Titik setempat, yinlingquan.zusanli.",
+    "Titik setempat pada sekeliling ulkus, 3-5 jarum; penusukan sedalaml Cun. Terapi akupunktur hany.a sebagai terapi penunjang.",
+    [
+      "SP-9",
+      "ST-36"
+    ]
+  ],
+  [
+    6,
+    0,
+    "Psoriasis Vulgaris",
+    "L40.0；",
+    "T itik setemp3t, dazhui, feishu, pishu, quchi, hegu, xuehai, baichongwosanyinjiao.",
+    "Daerah kelainan diketuk jarum kulit, tusuk pusat daerah kelainanl-3 jarum. Khasiat terapi akupunktur sebatas penunjang. 7.14. V it ilig o",
+    [
+      "BL-11",
+      "BL-13",
+      "BL-20",
+      "LI-11",
+      "LI-4",
+      "SP-10"
+    ]
+  ],
+  [
+    6,
+    3,
+    "Vitiligo",
+    "",
+    "Titik setempat, Fengchi, feishu, geshu, quchi, hegu, Kuehai, sanyinjiao.",
+    "DaSrah kelainan ditusuk secara mengepung. Khasiat terapi akupunktur terbatas. 8 .1 . E ry s ip e la s",
+    [
+      "GB-20",
+      "BL-13",
+      "LI-11",
+      "LI-4",
+      "SP-10",
+      "SP-6"
+    ]
+  ],
+  [
+    7,
+    1,
+    "Erysipelas",
+    "",
+    "Titik setempat, quchi. hegu, weizhong, Kuehai.",
+    "Jumlah titik rangsang setempat tergantung pasa besar kecil bercak merah. Tusuk berdarah ditambah kop, darah dikeluarkan 3-5 ml. Terapi akupunktur merupakan tera.pl pilihan.",
+    [
+      "LI-11",
+      "LI-4",
+      "BL-40",
+      "SP-10"
+    ]
+  ],
+  [
+    7,
+    1,
+    "Mumps (Mild Without Complication)",
+    "B26；9",
+    "Jiaosun, yifeng, titik setempat (pertengahan garis penghubung pelekatan lobus daun telinga dan sudut mandibula)： erjianjiache, dazhui, quchi, hegu：shangyang, waiguan, neiting ； zulinqi.",
+    "Penusukan titik setempat bersudutl530 derajat ke arahkan ke sudut mulut smpai ke kelenjar parotis. tusukan cepat, 2-3 menit lalu cabut. Erjian tusuk berdarah, dazhui kop berdarah. Setiap hari dua kali. 8 .3 . R u b e lla ( W it h o u t C o m p lic a tio n )",
+    [
+      "SJ-17",
+      "BL-11",
+      "LI-11",
+      "LI-4",
+      "LI-1",
+      "SJ-5",
+      "ST-44",
+      "GB-41"
+    ]
+  ],
+  [
+    7,
+    1,
+    "Rubella (Without Complication)",
+    "",
+    "Fengchi, feishu, dazhui, loeque, quchi, hegu. xuehai, yinlingquan, zusanli.",
+    "Feishu dan dazhui kop berdarah. Terapi dilakuakan setiap hari dua kali. Terapi akUpunktur dapat menyembuhkan, tet- tidak bisa mengatasi apabila sudah ada komplikasi, misalnya ensephalitis..",
+    [
+      "GB-20",
+      "BL-13",
+      "BL-11",
+      "LU-7",
+      "LI-11",
+      "LI-4",
+      "SP-10",
+      "SP-9",
+      "ST-36"
+    ]
+  ],
+  [
+    7,
+    1,
+    "Zoster (Without Complication)",
+    "B 02 9",
+    "T itik setempat, jiaji, quchi, hegu, zhigou, yanglingquan, Kingjian.",
+    "Titikrangsangsetempatmengitari lokasi kelainan,arahtusukan ke pusat daerah kelainan. Penelitian menunjukkan terapi akupunktur meredakan nyeri, mempercepat penyembuhan dan menyembuhkan.",
+    [
+      "LI-11",
+      "LI-4",
+      "SJ-6",
+      "GB-34",
+      "LR-2"
+    ]
+  ],
+  [
+    7,
+    2,
+    "Bacillary Dysentery(Acute and Non-Tonic,Shronic)",
+    "A03；9",
+    "Oihai, shenque, tianshu, dachangshu, quchi. shangjuKU, yinlingquan, zusanli.",
+    "ShenqUe diberi rangsang termis, penghangatan moksa.",
+    [
+      "ST-25",
+      "BL-25",
+      "LI-11",
+      "ST-37",
+      "SP-9",
+      "ST-36"
+    ]
+  ],
+  [
+    7,
+    2,
+    "Sequalae of Viral Encephalitis",
+    "A86.0",
+    "Garis anterior oblique verteks-temporal, garis tengah yerteks, garis lateral verteks-l, garis lateral inferior oksipital (Akupunktur kulit kepala), baihui, sishenzong, fengchi, fengfu, yamen, jiaji. jianyu ；quchi hegu, zusanli；yanglin gquari； sanyinjiao, Kianzhong.Bila disertai gangguan bicara tambah tongli, Lianquan; jin jin yuye; leher lemas tambah tianzhu; pinggang Lemas tambah yaoyangguan.",
+    "Penyakitini dapat disertai gangguan kecerdasan, gangguan bicara dan lumpuh. 3-6 bulan setelah kejadian merupakan masa pemulihan terbaik, setelah 2 tahun sulit pulih terapi akupunktur perlu tunjangan terapi lain untuk hasil optimal.",
+    [
+      "GB-20",
+      "LI-15",
+      "LI-11",
+      "LI-4",
+      "ST-36",
+      "SP-6",
+      "BL-10"
+    ]
+  ],
+  [
+    7,
+    2,
+    "Sequelae of Poliomyelitis Convalescent Period)",
+    "B91；0",
+    "Garis antereior oblique verteks-temporal, garis lateral verteks-l (Akupunktur kulit kepala), jiaji lumbal, huantiao. biguan, futu. zusanli, yanmglingquan；fenglong, sanyinjiao； taichong.",
+    "Poliomyelitis paling banyak ditemukan pada anak di bawah 5 tahun. Lazimnya setelah demam 2-5 ha(i, timbul ke'umpuhan. Dua minggu merupakan periode akut; sejak gejala tubuh hilang sampai sekitar 2 tahun lumpuh, disebut masa pemulihan 3-6 bulan sejal( kejadian merUpakan masa pemulihan terbaik, setelah itu pemulihan melambat dan sesudah 2 tahun tidak ada lagi perbaikan, selanjutnya sulit dipulihkan, terutama bila otot Umpuh sudah atropl dan ada kelainan bentuk.",
+    [
+      "GB-30",
+      "ST-36",
+      "GB-34",
+      "ST-40",
+      "SP-6",
+      "LR-3"
+    ]
+  ],
+  [
+    7,
+    2,
+    "Verruca Vulgaris (Viral Warts)",
+    "B07；0",
+    "Titik setempat papa tubuh kulit atau biang kutik.",
+    "Titik setempat dirangsang dengan jarum api. dalam satu minggu kutil layu dan lepas. Sering kanmbuh dan sulit disembuhkan",
+    []
+  ],
+  [
+    7,
+    2,
+    "Whooping Cough",
+    "A37.9 ；",
+    "Tiantu, feishu, fenegemen, dazhui. erjian, quchi. hegue, shaoshang/",
+    "Tiantu dirangsang aaacabut benam, jarum tidak ditinggaLErjian dan shaoshang tusuk berdarah. Terapi sehari dua l<ali",
+    [
+      "LU-3",
+      "BL-13",
+      "BL-11",
+      "LI-11",
+      "LI-4",
+      "LU-11"
+    ]
+  ],
+  [
+    7,
+    2,
+    "Verruca Plana",
+    "B07；0",
+    "Titik setempat, quchi„ hegu, xuehai.",
+    "Titik setempat di badan kutil atau biang kutil.Bila banyak, maka daerah kutil itu dirangsang dengan cara mengepung. Serupa tetapi tidal(sama dengan g-B-4.",
+    [
+      "LI-11",
+      "LI-4",
+      "SP-10"
+    ]
+  ],
+  [
+    7,
+    3,
+    "Ascariasis",
+    "B77；0",
+    "Yingxiang, sibai, tianshu, hegu zusanli, dannang.",
+    "saat nyeri, dirangsang titik jauh sampai nyeri mereda- . Terapi akupunl<tur bersifat simptomatis； sebagai terapi penUnjang.",
+    [
+      "LI-20",
+      "ST-25",
+      "LI-4",
+      "ST-36"
+    ]
+  ],
+  [
+    7,
+    3,
+    "Chronic(Viral) Hepatitis B",
+    "B18.1",
+    "Ganshu, pishu, weishu, gauhuangshu, qimen, zhongwan. zhigou, zusanLi sanyinjiao.",
+    "Terapi akupurKtur merupakan terapi penunjang, dalam hal meredakan gejala misalnya perut l<embung, nyeri iga, lesu letih, napsu makan jelek",
+    [
+      "BL-18",
+      "BL-20",
+      "BL-13",
+      "KI-16",
+      "LR-14",
+      "SJ-6",
+      "ST-36",
+      "SP-6"
+    ]
+  ],
+  [
+    8,
+    1,
+    "Acute Pharyngitis",
+    "",
+    "Titik setempat, erjian, tiantu, fengchi, shaoshang,",
+    "Titik setef^npat berupa daerah farings yang merah, tusuk berdarah. Sebelum dan sesudah penusukan, pasien diminta kumur larutan aseptik. Erjian dan s.haoshang tusuk berdarah. 9.2. A c u te T o n s illit is A c u te IC D l0 ：",
+    [
+      "LU-3",
+      "GB-20",
+      "LU-11"
+    ]
+  ],
+  [
+    8,
+    1,
+    "Acute Tonsillitis",
+    "",
+    "T itik setemp.at, lianquan, tiantu, erjian, dazhui. chize, shaoshang, n.eiguan.",
+    "Erjiandan shaoshangtusuk berdarah. PadatonsiLyangbengkak bernanah, tusuk meGutul 3-4 tempat.",
+    [
+      "LU-3",
+      "BL-11",
+      "LU-5",
+      "LU-11",
+      "PC-6"
+    ]
+  ],
+  [
+    8,
+    1,
+    "Common Cold",
+    "300",
+    "Fengchi, taiyang, dazhui, fengmen. feishu, lieque, hegu.",
+    "Terapi akupunktur dengan bermakna meredakan gejala, memperpendek perjalanan penyakit dan menyembuhkan 9.4. S im p le A c u te L a r y n g it is IC D l0 ：",
+    [
+      "GB-20",
+      "LU-9",
+      "BL-11",
+      "BL-13",
+      "LU-7",
+      "LI-4"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Simple Acute Laryngitis",
+    "",
+    "Lianquan, futu.tiantu, quchi. hegu, lieque, shaoshang, shangyang, neiting.",
+    "Lianquan dan futu ditusuk-dalm sampai ke tenggorokan, rasa jarum menyebar di tenggorokan. Shaoshang dan shangyang •tusuk berdarah. 9.5. S im p le C h ro n ic R h in itis IC D l0 ：",
+    [
+      "LU-3",
+      "LI-11",
+      "LI-4",
+      "LU-7",
+      "LU-11",
+      "LI-1",
+      "ST-44"
+    ]
+  ],
+  [
+    8,
+    1,
+    "Simple Chronic Rhinitis",
+    "",
+    "Tlntang, shangyingxiang, yingxiang, neiyingxiang, bitong, houquanliaoClcunposteriorquanUaoKfeishu.fengmen, hegu",
+    "Terapi makin dini hasil makin baik.",
+    [
+      "LI-20",
+      "LI-4"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Simple Spasm of Diaphragm(Hiccough)",
+    "",
+    "Zanzhu, jiaji C3-4-5, futu, zhongwan, geshu, neiguan..",
+    "Rangsang kuta untul<l-3 menit lalu cabut. Terapi akupunktur merupakan terapi pilihan, sembuhl-2 kali tusuk.",
+    [
+      "BL-2",
+      "PC-6"
+    ]
+  ],
+  [
+    8,
+    1,
+    "Vocal Nodules(Primatry Stage)",
+    "J38.2",
+    "Lianquan, shanglianquan, renying, tiantu, shuitu, futu, hegu, yuji",
+    "Titik-titik dileher tusuk dalam ke arah tenggorokan, rasa jarum menyebar di te- nggorokan. Pada jenis nodul yang besar, .terapi perlu waktu 3-6 bulan. 9 .8 . V a s o m o to r R h in it is IC D l0 ：",
+    [
+      "LU-3",
+      "LI-4",
+      "LU-10"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Vasomotor Rhinitis",
+    "",
+    "Houquanliao, yingxiang, neiyingxiang, shangyingxiang, Jiaji leher, hegu, houKi.",
+    "Houquanliao ditusuk sampai mengenai n.sphenopalatine, begitu terkena langsung terasa terkena aliran listrik yang kuat： Ini merupakan kunCi keberhasilan terapi.",
+    [
+      "LI-20",
+      "LI-4"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Allergic Rhinitis",
+    "IC D 10J30.1/3 3 0 .2 /3",
+    "Yingxiang, houquanLiao, yintang. shangxing, baihui, fengchi, feishu, qihai. hegu, zusanli,",
+    "Terapi a.kupunktur sebenar merupakan terapi pilihan, tetapi sulit.sembUh, sering kambuh.",
+    [
+      "LI-20",
+      "GB-20",
+      "BL-13",
+      "LI-4",
+      "ST-36"
+    ]
+  ],
+  [
+    8,
+    2,
+    "Bronchial Asthma (Remission Stage)",
+    "J45.0",
+    "Fei-shu, dashU, fengmen, s.henshu, gaihuangshu, dingcuan, chize, taiyuan, Lieque, taixi, fenglong, zusanli.",
+    "Titik-titik di dorsal tubuh diberi rangsangan termis. Terapi sulit mencapai kelas 1•",
+    [
+      "BL-23",
+      "KI-16",
+      "LU-5",
+      "LU-9",
+      "LU-7",
+      "KI-3",
+      "ST-40",
+      "ST-36"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Bronchitis",
+    "J20 9 ‫ل ا‬4 ‫ ا‬.045.9‫ل",
+    "Tiantu, danzhong, feishu. fengmen, dazhui, chize, kongzui, l- Ieque, hegu, zus3nli.",
+    "Penelitian menunjukkan terapi akupunktur dapat meringankan gejala, mengurangi ^ekuens“ um3t dan derajat keparahan.",
+    [
+      "LU-3",
+      "GB-39",
+      "BL-13",
+      "BL-11",
+      "LU-5",
+      "LU-7",
+      "LI-4"
+    ]
+  ],
+  [
+    8,
+    2,
+    "Simple Chronic Pharyngitis",
+    "ICDlO ： ]31.2",
+    "Shanglianquan, yinhoubi, daying, tiantu, lieque, zhaohai.",
+    "Terapi akupunktur sulit menyembuhkan, perlu didukung terapi jenis lain. 9.13. B r o n k ia lis A s th m a A tt a c k IC D l0 ：",
+    [
+      "PC-7",
+      "LU-3",
+      "LU-7",
+      "KI-6"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Bronchial Asthma Attack",
+    "",
+    "Dingcuan, jiaji leher, fengmen, feishu, geshu, chize, lieque. Saat serangan sulit berbaring tambah Suliao",
+    "Terapi akupunktur sebagai penunjang terapi dengan medikamentosa. 9.14. C e n tra l R e s p ir a to r y F a ilu re",
+    [
+      "BL-13",
+      "LU-5",
+      "LU-7"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Central Respiratory Failure",
+    "",
+    "Shuigou, suLiao, qishi.",
+    "TeraflakupunkturdigunakanuntukmenoLongkeadaandarurat, sebgai pedukung pertolongan gawat darur3t kedokteran. 9.15. C h ro n ic R h in it is ( A tr o p h ic , H y p e r tr o p h ic ) IC D l0 ：",
+    []
+  ],
+  [
+    8,
+    0,
+    "Simple Chronic Rhinitis",
+    "",
+    "Yintang neiying>(iang,ying><iang,shangyingxiang,houquanLiao. bitong,hegu. ب",
+    "Terapi akupunktur hanya meringankan gejala. Dapat turut berperan dalam terapi terpadu penyakit ini.",
+    [
+      "ST-44",
+      "LI-4"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Epistanis",
+    "RA0.0",
+    "Yintang, shangxing, shangyingxiang, yingxiang, fengchi, chize, kongzui, hegu：",
+    "Terapi akupunktur sebagai penunjang. Pada keadaan tertentu, terapi akupunktur dapat menghentikan perdarahan",
+    [
+      "LI-20",
+      "GB-20",
+      "LU-5",
+      "LI-4"
+    ]
+  ],
+  [
+    8,
+    0,
+    "017 Fever",
+    "R50；9",
+    "Taiyang, fengchi. fengfu, dazhui. feishu, erjian, quchi, hegu, shaoshang, s h a n g y a n g",
+    "Terapi akupunktur b ersifatsimptomatis.",
+    [
+      "LU-9",
+      "GB-20",
+      "BL-11",
+      "BL-13",
+      "LI-11",
+      "LI-4",
+      "LU-11"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Haemoptysis",
+    "ROA.2",
+    "Feishu, kongzui, chize, lieque, yuji, neiguan.",
+    "Terapi akupunktur sebagai penunjang. 9 .1 9 . P a r a ly s is o f V o c a l C o rd s IC D l0 ：",
+    [
+      "BL-13",
+      "LU-5",
+      "LU-7",
+      "LU-10",
+      "PC-6"
+    ]
+  ],
+  [
+    8,
+    0,
+    "]38.0",
+    "",
+    "Lianquan, shanglianquan, renying, shuitu, futu.",
+    "Seba_b lum puh^ita s_uara 1<0- <اةا . Terapi akupunktur berupa terapi penunjang.",
+    []
+  ],
+  [
+    8,
+    0,
+    "Pneumonia",
+    "J]18.0",
+    "Saranfori^ula:Feishu, dazhui, dachangshu, queben, zhongfu. danzhong, chze, lieque, shaoshang.",
+    "Terapi akUpunktur sebagai penunjang.",
+    [
+      "BL-13",
+      "BL-11",
+      "BL-25",
+      "ST-12",
+      "LU-1",
+      "GB-39",
+      "LU-7",
+      "LU-11"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Sinusitis",
+    "]01.0/302.0",
+    "Saran for^iula:Tongtian, shangxing, baihui, fengchi, shuigou, yingxiang, yintang, titik nyeri tekan, yuji. hegu.",
+    "Hanya meredakan keluhan, penunjang terapi",
+    [
+      "GB-20",
+      "LI-20",
+      "LU-10",
+      "LI-4"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Primary Erythromelalgia",
+    "173.8",
+    "jiaji, titik nyeri tel<an, eksatremitas superior tambah quchi, neiguan, waiguan, hegu; ekstremitas inferior tambah zusanli, yanglingquan. sanyinjiao, jiexi, shangqiu, taixi, taichong, zulinqi,",
+    "Terapi, akupunktur Lewat regulasi sistem vegetatif memulihkan penyakit ini.",
+    [
+      "LI-11",
+      "PC-6",
+      "SJ-5",
+      "LI-4",
+      "ST-36",
+      "GB-34",
+      "SP-6",
+      "KI-3",
+      "LR-3",
+      "GB-41"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Raynaud's Disease (Mild)",
+    "173.0",
+    "Jiaji. Ekstremitas superior tambah quze, neiguan, daling, hegu, waiguan; ekstremitas inferior tambah zusanli, yanglingquan, taichong.",
+    "Terapi akupunbktur merupakan terapi pilihan. Kasus yang berat masuk dalam kelas II.",
+    [
+      "PC-3",
+      "PC-6",
+      "PC-7",
+      "LI-4",
+      "SJ-5",
+      "ST-36",
+      "GB-34",
+      "LR-3"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Cerebral Atherosclerosis",
+    "167.2",
+    "Baihui, yintang, atau shuigou, fengchi. wangu, fengfu, neiguan, tongli. Dapat ditambah sesuai gejala yang ditemukan.",
+    "Gangguan' vaskularisasi otak menimbulkan ishemi, gejala berUfa menurunnya daya ingat, nyeri kepala, pusing, penglihatan kabur, tinitus, pendengaran menurun, gangguan tidur; pada kasus berat timbul gejala demensia, halusinasi Terapol akupunktur dapat memperbaiki vaskularisasi. meringankan gejala.",
+    [
+      "GB-20",
+      "SI-4",
+      "PC-6"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Haemorrhoids",
+    "ICDlOj 184.1",
+    "Changqiang, yaoshu atau ciliao, dachangshu atau huiyang, erbai： chengshan. atau di hemoroid.",
+    "Pada hemoOid yang cukup besar, penusukan jarum api pada bagian keras wasir; dapat pula tusUk lokasi ja.m ذ , j a i 7 dan J a S ll bagian atas wasir dihana terdapat pembuluh.nadi usus besar, untuk menghentikan aliran dar.ah ke wasir; dapat pula ditusuk mengepung daerah keras wasir. Terapi akupunktur sebagai terapi simptomatis, menghilangkan gejala keluhan..",
+    [
+      "BL-25",
+      "BL-57"
+    ]
+  ],
+  [
+    8,
+    0,
+    "Hypotension",
+    "1195.0/195.1/195.8",
+    "Renying, baihui, dazhui, pishu, xinshu, shenshu, shenque, qihai. guanyuan, zusanli.",
+    "- elitian Menunjukkan terapi akupunktur merupakan terapi pilihan untuk hipotensi, tetapi belum dapat menyembuhkan.",
+    [
+      "BL-11",
+      "BL-20",
+      "BL-15",
+      "BL-23",
+      "ST-36"
+    ]
+  ],
+  [
+    7,
+    2,
+    "Multiple Aortoartheritis(Brochiocephalic Artery Type)",
+    "I77.6",
+    "Fengchi, renyingjiquan.chize.taiyuan, neiguan.",
+    "Terapi akupunktur dapat meredakan gejala tetapi tidak menyembuhkan.",
+    [
+      "GB-20",
+      "LU-5",
+      "LU-9",
+      "PC-6"
+    ]
+  ],
+  [
+    7,
+    0,
+    "Simple Lower Limb Varices",
+    ". 183.9",
+    "Titiksetempat(daerahvenaberlil<u-liku)Kuehai,yanglingquan, zusanli",
+    "Titik setempat varises tusuk jarum api,_ cepat tusul(dan cepat dicabut; penusukan bertujuan menusuk menghancurkan vena yang berliku-liku. Perdarahan dihenikan dengan penekanan beralkohol. Penusukan dilakukan dua 1< آاة seminggu, 4 kali sebagai satu seriterapi.",
+    [
+      "SP-10",
+      "GB-34",
+      "ST-36"
+    ]
+  ],
+  [
+    7,
+    0,
+    "Thromboangititis Obliterans",
+    "I73 1",
+    "Ekstremitas inferior, titik setempat, zusanli, yinlingquan, jiexi, Xingjian;; el<stremitas superior, titik setempat, jiquan, quchi； waiguan, Taiyuan, hegu, zhongzhu.",
+    "Titik setempat di ekstremitas inferior dan superior dengan cara menyu.sur pembuluh darah nadi terkena,• memilih titik rangsang; titik setempat ini ditusuk berdarah, kemudian diberi rangsangan termls, hoksa kerucut beralas jahe.",
+    [
+      "ST-36",
+      "SP-9",
+      "LR-2",
+      "HT-1",
+      "LI-11",
+      "SJ-5",
+      "LU-9",
+      "LI-4",
+      "SJ-3"
+    ]
+  ],
+  [
+    7,
+    0,
+    "Chronic Coronary Atherosclerotic Heart Disease",
+    "125.1",
+    "Danzhong, xinshu, juque, geshu atau jueyinshu. yinKi, neiguan.",
+    "Terapi al(٧punktur berl<hasiat sebatas sebagai terapi penUnjang. 1 0 .1 0 . E s s e n tia l ( P r im a r y ) H y p e r te n s io n ICDIO： 110.0 !( ode Penyakit Berkhasiat Akupunktur: C-l-3 Saran formula :Baihui, fengchi.qiangyagou, erjian, renying, quchic, hegu, yinlingquan； fengLong, taichong atau xingjian： Kiaxi, taixi, Keterangan : Erjian, qiangyagou, xingjian tusuk berdarah. Terapi akupunktur belum dapat menyembuhkan secara Tuntas.",
+    [
+      "GB-39",
+      "BL-15",
+      "PC-6"
+    ]
+  ],
+  [
+    7,
+    0,
+    "Ischemic Cardiomyopathy / Angina Pectoris",
+    "125.5 /120.0",
+    "Danzhong, juque, neiguan, daling.",
+    "rangsangan, bada neiguan dipertahanl<an untul<l-3 menit. Terapi akupunktur hanya sebagai penunjang.",
+    [
+      "GB-39",
+      "PC-6",
+      "PC-7"
+    ]
+  ],
+  [
+    7,
+    0,
+    "Shock",
+    "R57.9",
+    "Shuigou, suliaio, neiguan, yongquan, zhongchong..",
+    "Shuigou, suliao dan yongquan diberi rangsangan kuat; neiguan rangSang putar-tekan, zhGngchong tusU berdarah.",
+    [
+      "PC-6",
+      "KI-1",
+      "PC-9"
+    ]
+  ],
+  [
+    7,
+    1,
+    "Acute Lumbar Sprain(Not Including Mvocele and Synovialinterposin)",
+    "3 3 ：5‫ي‬0 ‫ي‬",
+    "Shenshu, ya0 yangguan, dachangshu, yaotong, atau welzhong, atau mengambil titik jauh tunggal, misalnya shuigou, yanglingquan, houxi, yanglao.",
+    "Penusukan dimulai dari titik jauh, dirangsang untul<l-3 menit, saat ditusuk pasien diminta (Menggeraikan pinggangnya.",
+    [
+      "BL-23",
+      "BL-25",
+      "BL-40",
+      "GB-34",
+      "SI-3",
+      "SI-6"
+    ]
+  ],
+  [
+    7,
+    1,
+    "Concussion of Spinal Cord",
+    "T09.3： / SS3 A.0 / 524.0",
+    "]iaji lokasi terkena. Sesuai dengan gejala. Ekstremitas superior :jingbi. jiquan, chize. neiguan; el(strennitas inferior: huantiao, yan|lingquan, weizhong. sanyinjiao; gangguan berak-kencing : zhibian, huiyang atau ciliao. zhongji, qugu.",
+    "Terapi akupunktur diberikan langsung pasca trauma, rangsang elektik, 2 kali sehari, setiap l<alil5-30 menit.",
+    [
+      "HT-1",
+      "LU-5",
+      "PC-6",
+      "GB-30",
+      "SP-9",
+      "BL-40",
+      "SP-6"
+    ]
+  ],
+  [
+    7,
+    1,
+    "Injury of Peripheral Nerve(Incomplete Injury)",
+    "S84.0 / S64 0 / S54 0 / S",
+    "Titik rangsang dipilih sesuai dengan lokasi kelainan, titik nyeri tekan dan titik akupunktur umum sepanjang saraf terkena, penusukan berbaris: Pada keadaan akUt sebaiknya diakukan Setelahl minggu. Terapi akupunktur meningkatkan pemulihan fungsi dan merangsang regenerasi saraf.",
+    "Terapi akupunktur merupakan terapi pilihan.",
+    []
+  ],
+  [
+    7,
+    1,
+    "Siriasis (Mild Type and Heat Cramp of Severe Type)",
+    "T67 ；2/T67 6/T67. l",
+    "B ahu, dazhui taiyang, erjian, quze. quchi, sixian.. Bila kaku kejang ekstremitas, tambah neiguan, hegu, weizhong, chengshan, taichong Bila dipandang ^erlu dapat ditambah shuigou..",
+    "SiriaSis dibedakan dalam tipe ringan dan tipe berat. Tipe ringan, badan emas tidak bertenaga,letih, pusing, dada penuh, mual, haus, banyak keringat, berdebar, tidak dSpat berkonsentrasi, suhu tubuh bisa > .3,5 . Tipe berat, disertai keku kejang, suhu tubuh tinggi, 11.5. S p ra in o f A n k le ICDIO :S93.4 l0 de Penyakit Berkhasiat Akupunktur: A s_5 Saran formula : Titik nyeri tekan, houxi, shenmai, zhaohai. Keterangan :Tusuk houxi dengan rangsangan kuat, pasien diminta menggerakan persendian kaki; kemudian titik nyeri tekan di sekitar sendi, lalu shenmai, zhaohai.",
+    [
+      "BL-11",
+      "LU-9",
+      "PC-3",
+      "LI-11",
+      "PC-6",
+      "LI-4",
+      "BL-40",
+      "BL-57",
+      "LR-3"
+    ]
+  ],
+  [
+    7,
+    2,
+    "Brain Injury (Convalescence)",
+    "S06 0",
+    "Fengchi. baihui, yintang atau shuigou, neiguan, hegu, shenmen taichong.dan ditambah sesuai dengan keadaan/gejala.",
+    "Terapi akupunktur perlu didukungterapi lain.",
+    [
+      "GB-20",
+      "PC-6",
+      "LI-4",
+      "HT-7",
+      "LR-3"
+    ]
+  ],
+  [
+    7,
+    0,
+    "Delayed Encephalopathy Caused by CO Poisoning (Convalescence)",
+    "T97 0",
+    "Shulgou, bal-hUl, fengfu, fengchl, neiguan, hegu, zhomngchong. Dan dapat ditambah sesuai dengan keadaan/gejala.",
+    "Penelitian menunjuk terapi akupunktur dipadu dengan hiperbaik dan medikamentosa berhasil menyembuhkan.",
+    [
+      "GB-20",
+      "PC-6",
+      "LI-4",
+      "PC-9"
+    ]
+  ],
+  [
+    7,
+    2,
+    "Motion Sickness",
+    "T75；3",
+    "Baihui, fengchi, zhanzhu, taiyang, futu, zhongwan, neiguan, shenmen.",
+    "Tusuk neiguan lebih dulu,, rangsangan halus untul<l-3 menit, atau rangSangan halus lalu ragsagan kuat. Biasanya mual muntah dapat diatasi. Kemudian tusuk titik-titik yang lain sesuai dengan kebutuhan. 1 1 .9 . A U e r g ic R e a c tio n o f T r a n s f u s io n ICD10:T80；8 l_(ode Penyaldt Berkhasiat Akupunktur: C-S-l Saran formula : Shuigou, baihui, neiguan, sanyinjiao, yongquan. Keterangan : Terapi akupunktur hanya sebagai penunjang, dilakukan setelah tindakan kedokteran selesai dilakukan.",
+    [
+      "GB-20",
+      "BL-2",
+      "LU-9",
+      "PC-6",
+      "HT-7"
+    ]
+  ],
+  [
+    7,
+    3,
+    "Dearticulation",
+    "S43.0 / 543.1 / M53.2 / S",
+    "Titik setempat persendian terkena, titik nyeri",
+    "Setelah diakukan reposisi , baru dlberl terapi akupunktur, sebagai penunjang.",
+    []
+  ],
+  [
+    7,
+    3,
+    "Fracture and Complication",
+    "S22 0 / S32.0 / S42 0 / S",
+    "Titik al<upunktur sekitar kelainan dan titik nyeri tekan.",
+    "Reposisi dan fiksasi tulang yang patah melupakan tindakan pertama. Terapi akupunktur diberikan pada masa pemulihan, unntukmeningkatkanvaskularisasimempercepatpembuLihan； 1 2 .1 . E x c e s s iv e V o m it in g in P re g n a n c y ICDIO :0 2 1 0 l( ode Penyakit Berkhasiat Akupunktur: A-O-l Saran formula : Welshu, danzhong, zhongwan, nelguan, zusanll•- Keterangan : Terapi akupunktur merupakan tefSpl pilihan, dengan catatan tidak ada dehidrasi, kelainan keseimbangan elektrolit",
+    []
+  ],
+  [
+    9,
+    1,
+    "Hypogalactia After Labour",
+    "092.4 ：",
+    "Danzhong, rugen, neiguan, taichong, shaoze, zusanli.",
+    "Rugen ditusuk menyudut ke atas I cun, danzhong ditusuk mendatar 0,5-1 cun ke arah payudara. Mekanisme kerja rangsang akupunktur lewat regulasi sumbu hipotalamus, hipofise-gonad.",
+    [
+      "GB-39",
+      "PC-6",
+      "LR-3",
+      "SI-1",
+      "ST-36"
+    ]
+  ],
+  [
+    9,
+    1,
+    "Malposition of Fetus(Simple)",
+    "032.9",
+    "Zhiyin diberi rangsang termik.",
+    "Pasien diminta mengosongkan kandung kemih dulu, lalu dilakukan penghangatan moksa, setiap l<alil5-20 menit, setiap haril-2 kali, setelah 3 hari uLang pemeriksaan. Dilakukan sampai posisi fetus normal. Hasil te 「a_pl akupunktur mencapai 900/0 Lebih, perbaikan posisi melintang lebih baik daripada sungsang. Waktu terbaik perbaikan posisi fetus: 30-32 minggi kehamilan. 1 2 .4 . R e a c tio n s o f A r t i f i c i a l A b o r t io n",
+    [
+      "BL-67"
+    ]
+  ],
+  [
+    9,
+    1,
+    "CDl0:0088",
+    "",
+    "Baihui, yintang, neiguan, shenmen, hegu, zusanli, sanyinjiao. Bila pingsan tambah shuigou.",
+    "Zusa.nLi.dan sanyinjiao dirangsang kuat, 1-3 menit. Terapi akupunktur merupakan terapi",
+    [
+      "PC-6",
+      "HT-7",
+      "LI-4",
+      "ST-36",
+      "SP-6"
+    ]
+  ],
+  [
+    9,
+    2,
+    "Labourr Pain",
+    "ICDIO ： R14 0",
+    "Hegu, sanyinjiao, zusanli; dapat ditambah qihai, qugu, guilai. Tianshu; atau menggunakan akupunktur daUn telinga: simpatis, uterus, ditambah neiguan, sanyinjiao. taichong.",
+    "Heg'u, sanyinjiao dirangsang kuat dipertahankanl-：3menit lalu dicabut. Lazimnya masih perlu ditambah obat analgetik.",
+    [
+      "LI-4",
+      "SP-6",
+      "ST-36",
+      "ST-25",
+      "PC-6",
+      "LR-3"
+    ]
+  ],
+  [
+    9,
+    2,
+    "Long Labourr/Dystocia(Caused Bt Forces of Labourr)",
+    "063.0/ 062.0",
+    "Saran f o r ^ la : Hegu, sanyinjiao. taichong, zhiyin. zhigou atau akupunktur daun telinga: uterus, simpatis, endokrin：",
+    "Untuk sebab kelainan kointraksi dorongan partus, terapi akupunktur dapat menjadi terapi pilihan, umumnya per.lu dukungan cara terapi lainnya.",
+    [
+      "LI-4",
+      "SP-6",
+      "LR-3",
+      "BL-67",
+      "SJ-6"
+    ]
+  ],
+  [
+    9,
+    2,
+    "Side Effects of Drug Abortion (Colporrhagia, Nausea and Vomiting)",
+    "008.0 / 008.803 / 008.102",
+    "Guilai, zigong；guanyuan, ciliao, quze, Kuehai, hegu, sanyinjiao. Bila nyeri perut tambah tianshu. zusanli.",
+    "Terapi, akupunktur berperan penting, tetapi untuk mengatasiny_a perlu dukungan terapi lain.",
+    [
+      "PC-3",
+      "SP-10",
+      "LI-4",
+      "SP-6",
+      "ST-25",
+      "ST-36"
+    ]
+  ],
+  [
+    9,
+    2,
+    "Subinvolution of Uterus After Labourr",
+    "090.8",
+    "Zigong, guilai； guanyuan, qihai, qugu, ciLiao, xuehai. neiguan, hegu.sanyinjiao.",
+    "Terapi akupunktur mempercepat pemulihan kontraksi otot polos uterus, menghentikan getah nifas; tetapi untuk keberhasilan perlu dukungan cara terapi lain.",
+    [
+      "SP-10",
+      "PC-6",
+      "LI-4",
+      "SP-6"
+    ]
+  ],
+  [
+    9,
+    3,
+    "Postpartum Haemorrhage",
+    "072.0",
+    "Baihui, Zigong, guilai, qihai, guanyuan, qugu, duanhong, hegu. sanyinjiao.",
+    "Bila disebabkan oleh kekuatan kontral<si yang lemah, terapi akupunktur dapat berhasil dengan baik, tetap karena seb3b yang komplek dan bahya perdarahan, terapi akuounktur hanya sebagai pendukung saja",
+    [
+      "GB-39",
+      "LI-4",
+      "SP-6"
+    ]
+  ],
+  [
+    9,
+    3,
+    "Retained Placenta",
+    "ICDlOj 073.0",
+    "Guilai, Zigong: hegu, sanyinjiao.",
+    "Disebut sebagai R e ta in e d p la c e n ta , apabila 30 menit setelah bayi lahir, plasenta belum juga keluar. Perdarahan yang timbul perlu ditasai segera. Terapi akupunktur hanya berupa terapi pendukung.",
+    [
+      "LI-4",
+      "SP-6"
+    ]
+  ],
+  [
+    10,
+    1,
+    "Simple Thyroid Adenoma (Early Stage, Mild, Non-Thyrotoxicosis)",
+    "D3A.0",
+    "Titik setempat daerah pembengkakan, tiantu. futu, hegu, taichong.",
+    "Daerah, pembengkakan ditusuk cara mengepung, menyudutl5 -45° arah ke pusat, 8-10 titik; lalu tusuki jarum pada, puncak adenoma. Te「apl akupunktur pada kasus dini berhasil dengan baik, terutama bila menggunakan jarum api. II",
+    [
+      "LU-3",
+      "LI-4",
+      "LR-3"
+    ]
+  ],
+  [
+    10,
+    0,
+    "Obesity (Simple)",
+    "E65；0/E66 0",
+    "Tianshu, z h o n g w a n . da.heng, f u j i e , q u c h i, z h ig o u , n e it in g , f e n g lo n g , s h a n g ju K U , y i n l i n g q u a n .",
+    "Ter^po) akupunktur dapat• Menurunkan berat badan, tetap lebih berhasil apabila didukung terapi lain, seperti terapi prilaku, diet dan Olah raga. 13.3. D ia b e te s w it h C o m p lic a tio n s Kode p-enyakit Berkhasiat Akupunktur B-E:2: Saran formula : Feishu. shenshu, taixi، pishu, zusanli, sanyinjiao, yishu, geshu. chize, neiting. Dipilih titik -tambahan sesuai dengan kelainan saraf dan vaskuler perifer terkena, misalnya kelainan mata ditambah qiuhou. ]ingming, yiming; titik-titik pada ujung-ujung alat gerak pada kelainan ujung-ujung persarafan d3n vaskuler; gangguan pencernaan ditambah n>iguan, zhongwan. Keterangan :Terapi akupunkjtur untuk komplikasi DM berkhasiat baik, dengan catatan harus didasari terapi DM.",
+    [
+      "ST-25"
+    ]
+  ],
+  [
+    10,
+    2,
+    "Gout",
+    "MlO.0",
+    "Titik setempat sendi terkena.",
+    "Titik-titik sGldtar sendi terkena• ditusuk berdarah. ini memperbaiki vaskularisasi setempat. Terapi akupunktur merupakan terapi utama yang masih perlu ditunjang dengan terapi lain.",
+    []
+  ],
+  [
+    10,
+    3,
+    "Diabetes",
+    "ElO O/11.0‫;‬",
+    "Feishu, shenshu, taini, pishu, zusanli, sanyinjiao. yishu, geshu, Khize, neiting.",
+    "Terapi akupunktur sebagai terapi penunjang; Terap akupunktur dapat menurunkan kadar gula darah, tetapi penelitian menunjukkan penburunan tidak stabil.",
+    [
+      "BL-13",
+      "BL-23",
+      "BL-20",
+      "ST-36",
+      "SP-6",
+      "ST-44"
+    ]
+  ],
+  [
+    10,
+    3,
+    "Hyperlipidemia",
+    "E78 0/E78.1/E79.2",
+    "Zhongwan, pishu, qihai, quchi, neiguan, fenglong, zusanli.",
+    "Penelitian menunjukkan terapi akupunl<tur dapat menurunkan kadar lemak darah, tetapi stabil.",
+    [
+      "BL-20",
+      "LI-11",
+      "PC-6",
+      "ST-40",
+      "ST-36"
+    ]
+  ],
+  [
+    10,
+    0,
+    "Hyperthyroidism",
+    "E05.0 / E05.1 / E05.2",
+    "Shuitu, futu. tiantu. titik nyeri tekan, pingyin (Lokasi : 0.7 cun lateral antara C4-C5). naohui, zusanli, sanyinjiao, shenmen. neiguan, taichong. taixi.",
+    "Terapi akupunl<tur hanya sebagai terapi penunjang.",
+    [
+      "LU-3",
+      "ST-36",
+      "SP-6",
+      "HT-7",
+      "PC-6",
+      "LR-3",
+      "KI-3"
+    ]
+  ],
+  [
+    10,
+    3,
+    "Simple Coiter",
+    "E0A；0",
+    "Shuitu, renying, titik nyeri tekan, jiaji C3, CC4 dan C5, fengchi, fengfu, dazhui:hegu.",
+    "Terapi akupunktur sebagai penunjang, terapi kausal dengan jodium.",
+    [
+      "GB-20",
+      "BL-11",
+      "LI-4"
+    ]
+  ],
+  [
+    10,
+    3,
+    "Thyroiditis",
+    "E06 0",
+    "Shuitu, futu, titik nyeri tekan, naohui,.Pada subakut tambah fengchi, lieque, hegu, dazhui; bila disertai berdebar tambah neiguan, shenmen, baihui, yintang.",
+    "Ter3pi akupunktur hanya berperan sebagai penunjang. U.NEOPLASMS(C)",
+    [
+      "GB-20",
+      "LU-7",
+      "LI-4",
+      "BL-11",
+      "PC-6",
+      "HT-7"
+    ]
+  ],
+  [
+    11,
+    1,
+    "Haemangioma (Superficial and Small Volume)",
+    "D18.0",
+    "Titik setempat lokasi tumor.",
+    "Lakukan an'estesi Lokal, lalu dengan jarum api ditusuk tumor, tujuan merusakan jaringan pembuluh darah, diutamakan pembuluh darah penting： kemudian yang kecil, besar kecil berurutan Untuk haemangioma yang besar, terapi pilihan adalah pemnbedahan. 1 4 .2 . C o n s tip a t io n o f C h e m o th e ra p y o f M a lig n a n c y ( G a s tr o in te s t in a l R e a c tio n a n d L e u c o p e n ia ) Kode p.enyakit Berkhasiat Akupunktur: B-C-l Saran formula :Timbul sebagai reaksi sistem pencernaan, pilih zhongwan, zusanli; leukopenia pilih qihai. shenshu, gaohuangshu, zusanli； pishu, dazhui, Kianzhong. Keterangan : Terapi akupunktur tidak ditujukan pada kanker hanya untuk mengatasi komplikasi akibat tindakan misalnya kemoterapi. 14.5. F e v e r a n d P a in o f C a n c e r ICDlO ：",
+    []
+  ],
+  [
+    11,
+    3,
+    "C80.0 / R50.0 />52.9",
+    "",
+    "Dazhui, chize, feishu, shenshu, quchi, hegu, zusanli, sanyinjiao, taixi. fuliu. Untuk meredakan nyeri diambil titik shu-belakang sesuai dengan segmen lokasi k3nker.",
+    "Terapi akupunktur hanya simptomatris, sebagai terapi penUnjang. 14.4. L e io m y o m a o f u te r u s ICD10；",
+    [
+      "BL-11",
+      "LU-5",
+      "BL-13",
+      "BL-23",
+      "LI-11",
+      "LI-4",
+      "ST-36",
+      "SP-6",
+      "KI-3",
+      "KI-7"
+    ]
+  ],
+  [
+    11,
+    3,
+    "D25",
+    "",
+    "Zigong, qugu, tianshu, guilai, shenshu, hegu, sanyinjiao.",
+    "Sekalipun literature menyatakan terapi akupunktur dapat mengecilkan dan menghilangkan mioma uteri, tetapi bukti klinis belum meyakinkan.",
+    [
+      "ST-25",
+      "BL-23",
+      "LI-4",
+      "SP-6"
+    ]
+  ],
+  [
+    4,
+    1,
+    "Functional Tinnitus",
+    "HH93 1",
+    "Baihui, fengfu atau shuigou, tinggong, tinghui. fengchi, garis posterior temporal (Akupunktur daun telinga), neiguan, shenmen, daling, zhongzhu, sanyinjiao, taixi.",
+    "Penelitian menunjukkan terapi akupunktur dapat berhasil menyembuhkan.",
+    [
+      "SI-19",
+      "GB-2",
+      "GB-20",
+      "PC-6",
+      "HT-7",
+      "PC-7",
+      "SJ-3",
+      "SP-6",
+      "KI-3"
+    ]
+  ],
+  [
+    4,
+    2,
+    "Meniere's Disease",
+    "H81.01",
+    "Baihui, garis posterior temporal (akupunktur daun telinga). fengchi, tinggong, yifenmg, futu, neiguan, zhongzhu, zusanli, sanyinjiao, taichong.",
+    "Fengchi dan neiguan dirangsang kuat, cabut benam, dipertahankan untukl-3 menit.",
+    [
+      "GB-20",
+      "SI-19",
+      "SJ-17",
+      "PC-6",
+      "SJ-3",
+      "ST-36",
+      "SP-6",
+      "LR-3"
+    ]
+  ],
+  [
+    4,
+    2,
+    "Sensorineural Deafness",
+    "H90.5",
+    "Tinggong, tonghui, yifeng, wangu, fengchi, garis posterior temporal, shenshu, zhongzhu, taixi.",
+    "Penelitian terakhir menunjukkan terapi akupunktur belum dapat memulihkan pendengaran degan s.empurna'maslh pe_rlu dukungan terap.i lain.",
+    [
+      "SI-19",
+      "GB-2",
+      "SJ-17",
+      "SI-4",
+      "GB-20",
+      "BL-23",
+      "SJ-3",
+      "KI-3"
+    ]
+  ],
+  [
+    4,
+    0,
+    "Ototopic Hearing Loss",
+    "H91 .٥",
+    "Tinggong, Yinghui. ermen. yifeng. hegu, waiguan, zhongzhu.",
+    "Seba^ keracunan harus dicari dan dihentikan. Segera diberi terapi akupunktur dipasu dengan terapi hiperbarlk d_an obat nerutropik.",
+    [
+      "SI-19",
+      "GB-2",
+      "SJ-21",
+      "SJ-17",
+      "LI-4",
+      "SJ-5",
+      "SJ-3"
+    ]
+  ],
+  [
+    4,
+    2,
+    "Sudden Idiopathic Hearing Loss",
+    "HH91.2",
+    "Baihui. garis posterior temporal, yifeng, fengchi, tinggongTtinghui waiguan, zhongzhu.",
+    "Sampai saat ini diyakini terapi terpadu dengan akufunktur sebagai .terapi utama, dapat mengatasi penyakit ini. 15.4. D e a f M u t is m ICD10:H91.3 l_(ode Penyakit Berkhasiat Akupunktur C-H-l: Saran formula : Garis posterior temporal, yamen, tinggong, tinghui, fengchi. yifeng；zengying (lokasi :dalam lekukan di antara tulang tiroid), lianquan. tongli, zhongzhu, waiguan, hegu, zulinqi. Keterangan : Pada bisu-tuli terapi akupunktur berkhasiat terbatas.",
+    [
+      "SJ-17",
+      "GB-20",
+      "SJ-5",
+      "SJ-3"
+    ]
+  ],
+  [
+    4,
+    3,
+    "Otitis Media",
+    "H65.0/H66.0",
+    "Fengchi, baihui, tinggong, tinghui, chimai, yifeng, titik nyeri tekan pada telinga, zhongzhu.",
+    "Terapi akupunktUr hanya sebagai terapi penunjang 15.6. S e n s o r in e u r a l T in n itu s ICD10:H93.1 l(ode Penyakit Berkhasiat Akupunktur: C-H-3 Saran formula : Garis posterior temporal, tinggong, tinghui. fengchi, yifeng, hegu. zhongzhu, sanyinjiao, taiKi. Keterangan : Sebagai terapi penunjang meredakan keluhan.",
+    [
+      "GB-20",
+      "SI-19",
+      "GB-2",
+      "SJ-17",
+      "SJ-3"
+    ]
+  ],
+  [
+    12,
+    1,
+    "Simple Allergic Purpura",
+    "DD69.0",
+    "Titik setempat, fengchi. hegu, dazhui. sanyinjiao. quchi, xuehai.",
+    "Lazimnya dalam 7-14 hari, gejala hilang dengan sendirinya. Terapi akupunktur mempercepat penyembuhan.",
+    [
+      "GB-20",
+      "LI-4",
+      "BL-11",
+      "SP-6",
+      "LI-11",
+      "SP-10"
+    ]
+  ],
+  [
+    12,
+    2,
+    "Allergic Purpura (Schönlein)",
+    "D69：0",
+    "Tipe sendi, sejempat sekitar sendi terlena, hegu ^ sanyinjiao Quchi. Tipe abdominal, zhongwan, tianshu, zusanli； sanyinjiao. hegu, neiguan, quchl, dazhui; disertai melena tambah Liangqiu, xuehai, shangjuxu.",
+    "Terapi akupunktur merupakan pilihan, tetapi untuk penyembuhan perlu didukung terapi jenis lain.",
+    [
+      "LI-4",
+      "SP-6",
+      "LI-11",
+      "ST-25",
+      "ST-36",
+      "PC-6",
+      "BL-11",
+      "SP-10",
+      "ST-37"
+    ]
+  ],
+  [
+    12,
+    0,
+    "Chronic Idiopathic Thrombocytopenic Purpura",
+    "D69/3",
+    "Dazhui, geshu, pishu, sehenshu, yaoyangguan, xuehai, sanyinjiao： zusanLi；jiaji (T7-T11).",
+    "Gejala perdarahan dafat berupa perdarahan pada l(ulit, selaput lender, epistaksis, perdarahan gusi, perdarahan haid berlebih. Penelitian menunjukkan terapi akUpunktur berkhasiat pada penyakit ini.",
+    [
+      "BL-11",
+      "BL-20",
+      "BL-23",
+      "SP-10",
+      "SP-6",
+      "ST-36"
+    ]
+  ],
+  [
+    12,
+    2,
+    "Neutropenia",
+    "D70.0",
+    "Oihai, shenshu, gaohuangshu. zusdanli. pishu. dazhui, Kianzhong.",
+    "Penelitian menunjukkan terapi akupunktur dapat menambah jumlah lekosit.",
+    [
+      "BL-23",
+      "KI-16",
+      "ST-36",
+      "BL-20",
+      "BL-11"
+    ]
+  ],
+  [
+    12,
+    2,
+    "Nutritional Anaemia",
+    "D53.9",
+    "Pishu, weishu；zusanli, sanyinjiao, qihai. xuehai.",
+    "Terapi akupunkturdapatmeningkatkan pembentukan eritrosit. Untuk keberhasil mengatasi anaemia ini perlu dukunagn nutrisi dan obat.",
+    [
+      "BL-20",
+      "BL-13",
+      "ST-36",
+      "SP-6",
+      "SP-10"
+    ]
+  ],
+  [
+    12,
+    3,
+    "Chronic Aplastic Anaemia",
+    "D61_‫?‬",
+    "Zusanli, geshU, shenshu, pishu, gaohuangshu.",
+    "Sampai saat ini pengcJbatan penyakit dilakukan dengan cara terpadu, dan tera l akupunktur turut berperan sebagai pendukUng.",
+    [
+      "ST-36",
+      "BL-23",
+      "BL-20",
+      "KI-16"
+    ]
+  ]
+]
