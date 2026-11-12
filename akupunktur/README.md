@@ -46,3 +46,8 @@ Saat di-host di GitHub Pages, file otomatis dikompres (gzip/brotli).
 
 Sumber data: buku *Akupunktur Medik* (Kiswojo, 2013).
 Beberapa nama penyakit & ICD masih bisa diperbaiki lebih lanjut jika ada referensi asli yang lebih jelas.
+
+## v5
+
+- +20 titik (dari bab Titik Akupunktur & narasi penyakit), lokasi versi buku pada titik yang sudah ada
+- 27 gambar lokasi titik dari PDF (img/g01–g27) + 1 skema buatan (g28), galeri di beranda

@@ -49,6 +49,7 @@ ul{list-style:none;padding:0;margin:0}
 <div class="grid" id="grid" hidden=""><button class="mc" style="--a: #3f6fb5;"><span class="k">LU</span><b>Paru</b><small>Tai Yin Tangan</small></button><button class="mc" style="--a: #2f8f9d;"><span class="k">LI</span><b>Usus Besar</b><small>Yang Ming Tangan</small></button><button class="mc" style="--a: #9a7b1a;"><span class="k">ST</span><b>Lambung</b><small>Yang Ming Kaki</small></button><button class="mc" style="--a: #b0652a;"><span class="k">SP</span><b>Limpa</b><small>Tai Yin Kaki</small></button><button class="mc" style="--a: #c0392b;"><span class="k">HT</span><b>Jantung</b><small>Shao Yin Tangan</small></button><button class="mc" style="--a: #b83b6b;"><span class="k">SI</span><b>Usus Kecil</b><small>Tai Yang Tangan</small></button><button class="mc" style="--a: #2b4b9b;"><span class="k">BL</span><b>Kandung Kemih</b><small>Tai Yang Kaki</small></button><button class="mc" style="--a: #5b3f9e;"><span class="k">KI</span><b>Ginjal</b><small>Shao Yin Kaki</small></button><button class="mc" style="--a: #b45309;"><span class="k">PC</span><b>Perikardium</b><small>Jue Yin Tangan</small></button><button class="mc" style="--a: #c2410c;"><span class="k">SJ</span><b>Sanjiao</b><small>Shao Yang Tangan</small></button><button class="mc" style="--a: #3a9d5d;"><span class="k">GB</span><b>Kandung Empedu</b><small>Shao Yang Kaki</small></button><button class="mc" style="--a: #1f6f43;"><span class="k">LR</span><b>Hati</b><small>Jue Yin Kaki</small></button></div>
 <div id="dis"><div class="fl"><input id="q" type="search" placeholder="Cari penyakit..."><select id="fs"><option value="">Semua sistem</option><option value="0">Muskuloskeletal &amp; jaringan ikat</option><option value="1">Sistem saraf</option><option value="2">Sistem pencernaan</option><option value="3">Genitourinari &amp; kebidanan</option><option value="4">Mata &amp; adneksa</option><option value="5">Mental &amp; perilaku</option><option value="6">Kulit &amp; jaringan subkutan</option><option value="7">Infeksi &amp; parasit</option><option value="8">Sistem pernapasan</option><option value="9">Kehamilan &amp; persalinan</option><option value="10">Endokrin, nutrisi &amp; metabolik</option><option value="11">Neoplasma</option><option value="12">Darah &amp; imun</option></select></div><p class="sub" id="cnt">244 penyakit</p><div id="dl"></div>
 </div>
+<details class="note" id="gal"><summary><b>Gambar lokasi titik dari buku (28)</b></summary><div id="gg" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin-top:8px"></div></details>
 <p class="note">Sumber: buku Akupunktur Medik (Kiswojo, 2013), Bagian Keempat – Penyakit Berkhasiat Akupunktur. Gambar meridian luar biasa (Ren, Du, Chong, Dai, Qiao, Wei) berasal dari sumber lain, bukan dari buku. Titik di luar 12 meridian (mis. Du/Ren, Jiaji, Ashi) hanya tertulis pada teks formula.</p>
 </section>
 <section id="det" style="--a: #3f6fb5;" hidden="">
@@ -196,11 +197,13 @@ function buka(i) {
     tb.append(t);
     if (!j) tampil(x, t);
   });
+  $("#pic").hidden = !m.im.length;
+  document.querySelector(".hint").hidden = !m.im.length;
   const pl = $("#pl");
   pl.innerHTML = "";
   m.p.forEach(p => {
     const li = mk("li");
-    li.innerHTML = `<button class="pt" aria-expanded="false"><b class="cd">${p[0]}</b><span>${p[1]}</span><i>▾</i></button><p class="lc" hidden>${p[2]}</p>`;
+    li.innerHTML = `<button class="pt" aria-expanded="false"><b class="cd">${p[0]}</b><span>${p[1]}</span><i>▾</i></button><p class="lc" hidden>${p[2]}${p[3] ? `<br><small><b>Versi buku:</b> ${p[3]}</small>` : ""}</p>`;
     const b = li.firstChild, l = li.lastChild;
     b.onclick = () => { l.hidden = !l.hidden; b.setAttribute("aria-expanded", !l.hidden); };
     pl.append(li);
@@ -214,6 +217,7 @@ $("#back").onclick = () => { $("#det").hidden = true; $("#home").hidden = false;
 $("#pic").onclick = () => { $("#zi").src = $("#pic").src; $("#zm").hidden = false; };
 $("#zm").onclick = () => { $("#zm").hidden = true; };
 
+fetch("data/gambar.json").then(r=>r.json()).then(G=>{const g=$("#gg");G.forEach(x=>{const f=mk("figure");f.style.margin=0;f.innerHTML=`<img src="${x.f}" loading="lazy" alt="${x.t}" style="width:100%;border-radius:6px;cursor:zoom-in"><figcaption style="font-size:12px">${x.t}</figcaption>`;f.firstChild.onclick=()=>{$("#zi").src=x.f;$("#zm").hidden=false};g.append(f)});$("#gal summary b").textContent=`Gambar lokasi titik dari buku (${G.length})`}).catch(()=>{});
 // Start
 loadData();
 </script>
