@@ -1,6 +1,6 @@
-# Navigasi 12 Meridian Akupunktur
+# Navigasi Meridian Akupunktur
 
-Aplikasi web ringan untuk navigasi 12 meridian utama + database 244 penyakit dengan saran titik akupunktur.
+Aplikasi web ringan untuk navigasi 12 meridian utama + 8 meridian luar biasa (Ren, Du, Chong, Dai, Yin/Yang Qiao, Yin/Yang Wei) + database 244 penyakit dengan saran titik akupunktur.
 
 ## Ukuran (perbandingan)
 
@@ -24,7 +24,7 @@ Saat di-host di GitHub Pages, file otomatis dikompres (gzip/brotli).
 │   ├── meridians.json  # 12 meridian + titik
 │   ├── diseases.json   # 244 penyakit
 │   └── meta.json       # sistem tubuh + kelas
-├── img/                # 30 diagram meridian
+├── img/                # 36 diagram meridian (30–35: meridian luar biasa)
 └── README.md
 ```
 
