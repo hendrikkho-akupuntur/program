@@ -73,20 +73,76 @@ const mk = (t, c) => { const e = document.createElement(t); if (c) e.className =
 let M = [], D = [], SYL = [], KL = [];
 
 async function loadData() {
+  const files = [
+    ["meridians.json", "data/meridians.json"],
+    ["diseases.json", "data/diseases.json"],
+    ["meta.json", "data/meta.json"]
+  ];
+
+  $("#cnt").textContent = "Memuat database...";
+
   try {
-    const [mer, dis, meta] = await Promise.all([
-      fetch("data/meridians.json").then(r => r.json()),
-      fetch("data/diseases.json").then(r => r.json()),
-      fetch("data/meta.json").then(r => r.json())
-    ]);
+    const hasil = {};
+
+    for (const [nama, alamat] of files) {
+      const url = new URL(alamat, document.baseURI);
+      url.searchParams.set("_reload", "20261112-diagnostik-1");
+
+      let response;
+      try {
+        response = await fetch(url.toString(), { cache: "no-store" });
+      } catch (e) {
+        throw new Error(nama + ": gagal menghubungi server. " + e.message);
+      }
+
+      if (!response.ok) {
+        throw new Error(nama + ": server memberi HTTP " + response.status);
+      }
+
+      const teks = await response.text();
+
+      try {
+        hasil[nama] = JSON.parse(teks.replace(/^\uFEFF/, ""));
+      } catch (e) {
+        const cuplikan = teks.slice(0, 180);
+        console.error("JSON bermasalah:", nama, e, cuplikan);
+        throw new Error(
+          nama + " ditemukan tetapi isi JSON tidak valid. " +
+          e.message + " Awal isi file: " + cuplikan
+        );
+      }
+    }
+
+    const mer = hasil["meridians.json"];
+    const dis = hasil["diseases.json"];
+    const meta = hasil["meta.json"];
+
+    if (!Array.isArray(mer)) {
+      throw new Error("meridians.json valid sebagai JSON, tetapi bentuk datanya bukan array.");
+    }
+    if (!Array.isArray(dis)) {
+      throw new Error("diseases.json valid sebagai JSON, tetapi bentuk datanya bukan array.");
+    }
+    if (!meta || !Array.isArray(meta.systems) || !Array.isArray(meta.kelas)) {
+      throw new Error("meta.json valid sebagai JSON, tetapi systems atau kelas tidak berbentuk array.");
+    }
+
     M = mer;
     D = dis;
     SYL = meta.systems;
     KL = meta.kelas;
+
+    console.log("Database berhasil dimuat:", {
+      meridians: M.length,
+      diseases: D.length,
+      systems: SYL.length,
+      kelas: KL.length
+    });
+
     initApp();
   } catch (err) {
-    console.error(err);
-    $("#cnt").textContent = "Gagal memuat data. Pastikan file JSON ada.";
+    console.error("DETAIL ERROR LOAD DATA:", err);
+    $("#cnt").textContent = "Gagal memuat: " + err.message;
   }
 }
 
